@@ -1,0 +1,78 @@
+#!/usr/bin/env python
+import sys
+
+##  ecode
+def ecode(year,outfile):
+    from retro.raw import ECODE
+    with ECODE(year) as f:
+        for l in f:
+            print("%s,%s"%l,file=outfile)
+
+##  ctx
+def ctx(year,outfile):
+    from retro.raw import CTX
+    with CTX(year) as f:
+        for l in f:
+            print("%s,%s"%l,file=outfile)
+
+##  ros
+def ros(year,outfile):
+    from retro.raw import ROS
+    with ROS(year) as f:
+        for l in f:
+            print("%s,%s"%l,file=outfile)
+
+##  hnd
+def hnd(year,outfile):
+    from retro.raw import HND
+    with HND(year) as f:
+        for l in f:
+            print("%s,%s"%l,file=outfile)
+
+
+##  dfn
+def dfn(year,outfile):
+    from retro.raw import DFN
+    with DFN(year) as f:
+        for l in f:
+            print("%s,%s"%l,file=outfile)
+
+##  mod
+def mod(year,outfile):
+    from retro.raw import MOD
+    with MOD(year) as f:
+        for l in f:
+            print("%s,%s"%l,file=outfile)
+
+
+##  eve
+def eve(year,outfile):
+    from retro.raw import EVE
+    with EVE(year) as f:
+        for l in f:
+            print("%s,%s"%l,file=outfile)
+
+def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Baseball Raw Retrosheet BEVENT Output File Compiler")
+    parser.add_argument('type',choices=['ctx','ros','dfn','mod','eve','hnd','ecode'],help='Type of File to Compile')
+    parser.add_argument('year',type=int,help='year to compile')
+    args = parser.parse_args()
+    if args.type == 'ctx':
+        ctx(args.year,sys.stdout)
+    elif args.type == 'ros':
+        ros(args.year,sys.stdout)
+    elif args.type == 'dfn':
+        dfn(args.year,sys.stdout)
+    elif args.type == 'mod':
+        mod(args.year,sys.stdout)
+    elif args.type == 'eve':
+        eve(args.year,sys.stdout)
+    elif args.type == 'hnd':
+        hnd(args.year,sys.stdout)
+    elif args.type == 'ecode':
+        ecode(args.year,sys.stdout)
+
+
+if __name__=='__main__':
+    main()

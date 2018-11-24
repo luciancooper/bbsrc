@@ -3,10 +3,13 @@ from .raw import SyncEID,CTX,ROS,HND
 import os
 import pandas as pd
 
+
 ################################ [TEAM] ################################################################
 
 def simTEAM(year):
-    with open(f'/Users/luciancooper/BBSRC/RSLIB/TEAM{year}','r') as f:
+    #path = f'/Users/luciancooper/BBSRC/RSLIB/TEAM{year}'
+    path = f'{os.getcwd()}/retrosheet/TEAM{year}'
+    with open(path,'r') as f:
         for l in f:
             yield l[:5]
 
@@ -17,8 +20,9 @@ def simGID(year):
         line = line.strip().replace('"','').split(',')
         gid,away = line[0:2]
         return f'{gid[3:-1]}{gid[:3]}{away}{gid[-1]}',int(line[-1])
-
-    with open(f'/Users/luciancooper/BBSRC/RETRO/INX/{year}.txt','r') as f:
+    #path = f'/Users/luciancooper/BBSRC/RETRO/INX/{year}.txt'
+    path = f'{os.getcwd()}/inx/{year}.txt'
+    with open(path,'r') as f:
         i = extract(next(f))
         for l in f:
             gid,e = extract(l)
@@ -50,11 +54,12 @@ ROSLINE = { 'pid':0,'lastname':1,'firstname':2,'name':slice(1,3),'bats':3,'throw
 HAND = {'R':0,'L':1,'B':2 }
 
 def _roslines(year):
-    PATH = '/Users/luciancooper/BBSRC/RSLIB'
-    rosfiles = [f for f in os.listdir(PATH) if f.endswith(f'{year}.ROS')]
+    path = f'{os.getcwd()}/retrosheet'
+    #path = '{os.getcwd()}/BBSRC/RSLIB'
+    rosfiles = [f for f in os.listdir(path) if f.endswith(f'{year}.ROS')]
     rosfiles.sort()
     for file in rosfiles:
-        with open(f'{PATH}/{file}') as f:
+        with open(f'{path}/{file}','r') as f:
             for l in f:
                 yield l.strip().split(',')
 

@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+OUTDIR=$1
+START=$2
+if [[ ${#*} -eq 3 ]] ; then
+    END=$3
+else
+    END=$START
+fi
+for i in $(seq $START $END); do
+  echo "COMPILE GAME EVENT FILES $i > ${OUTDIR}/${i}.txt"
+  cat ${i}*.EV* > "${OUTDIR}/${i}.txt"
+done

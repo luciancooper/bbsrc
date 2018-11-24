@@ -1,11 +1,9 @@
 import re
 from .eve_mod import format_mod
 from .eve_adv import adv_split,adv_brevt,adv_merge,adv_format,adv_pbwp
-from .util import SimFileError,list_extract,split_paren,charmerge_list
+from .util import SimFileError,list_extract,split_paren,charmerge_list,binaryIndex,multisortSet
 from .raw import EVE,SyncEID,CTX,MOD,DFN
 from .misc import simTEAM
-import pyutil.search
-import pyutil.multisort
 
 
 #EVENT = { 'i':0,'t':1,'pid':2,'count':3,'pseq':4,'pitches':slice(3,5),'evt':5 }
@@ -370,15 +368,15 @@ def _infoline(info):
 ################################ [team-league] ################################################################
 
 def _teamLeagues(home,away,teamdata):
-    h = pyutil.search.binaryIndex(teamdata[0],home)
-    a = pyutil.search.binaryIndex(teamdata[0],away)
+    h = binaryIndex(teamdata[0],home)
+    a = binaryIndex(teamdata[0],away)
     assert (h != None), f"league for team '{h}' could not be found"
     assert (a != None), f"league for team '{a}' could not be found"
     return (teamdata[-1][h],teamdata[-1][a])
 
 def _teamMap(year):
     teams = [list(x) for x in zip(*((l[:3],l[-1]) for l in simTEAM(year)))]
-    return pyutil.multisort.sortset(teams)
+    return multisortSet(teams)
 
 ################################ [run] ################################################################
 
@@ -398,7 +396,11 @@ def simEVE(year):
             info = [None]*len(INFO)
             i,l = f.nextline()
             while (i=='i'):
-                k,v = split_line(l)
+                try:
+                    k,v = split_line(l)
+                except Exception as e:
+                    print(e)
+                    print(f"line:'{l}'")
                 if k in INFO: info[INFO[k]]=v
                 i,l = f.nextline()
             away = info[INFO['visteam']]

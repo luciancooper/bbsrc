@@ -1,13 +1,13 @@
+import os
 from .util import charsort_list
 
 class RetroFile():
-    INDIR = '/Users/luciancooper/BBSRC/RETRO'
     def __init__(self,year):
         self.year = year
 
     @property
     def path(self):
-        return f'{self.INDIR}/{self.__class__.__name__}/{self.year}.txt'
+        return f'{os.getcwd()}/{self.__class__.__name__.lower()}/{self.year}.txt'
 
     def __str__(self):
         return f'[{self.__class__.__name__} {self.year}]'
@@ -299,7 +299,11 @@ class EVE(RetroFile):
             if self.l0.endswith(',NP'):
                 if j=='s':
                     self.inx[1]+=1
-                    line = 's',self._mergesub(b,self.l0[:-3])
+                    try:
+                        line = 's',self._mergesub(b,self.l0[:-3])
+                    except Exception as e:
+                        print(f"\n\n\n'{j}' - '{b}' -> l0:'{self.l0}'\n\n\n")
+                        raise e
                     j,b = self._readnext()
                     if j == 'c':
                         j,b,com = self.comment(b)
