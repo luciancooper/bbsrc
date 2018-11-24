@@ -7,7 +7,6 @@ import pandas as pd
 ################################ [TEAM] ################################################################
 
 def simTEAM(year):
-    #path = f'/Users/luciancooper/BBSRC/RSLIB/TEAM{year}'
     path = f'{os.getcwd()}/retrosheet/TEAM{year}'
     with open(path,'r') as f:
         for l in f:
@@ -20,7 +19,6 @@ def simGID(year):
         line = line.strip().replace('"','').split(',')
         gid,away = line[0:2]
         return f'{gid[3:-1]}{gid[:3]}{away}{gid[-1]}',int(line[-1])
-    #path = f'/Users/luciancooper/BBSRC/RETRO/INX/{year}.txt'
     path = f'{os.getcwd()}/inx/{year}.txt'
     with open(path,'r') as f:
         i = extract(next(f))
