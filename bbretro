@@ -19,12 +19,17 @@ def extract_zip(file):
 
 ### Parse Years
 
-def parse_range(arg):
-    y0,y1 = arg.split('-')
-    return range(int(y0),int(y1)+1)
-
 def parse_years(arg):
-    return [i for j in [[*parse_range(a)] if ('-' in a) else [int(a)] for a in arg.split(',')] for i in j]
+    years = set()
+    for a in arg.split(','):
+        if '-' in a:
+            y0,y1 = map(int,a.split('-'))
+            years |= set(range(y0,y1+1))
+        else:
+            years |= {int(a)}
+    years = list(years)
+    years.sort()
+    return years
 
 ### Main
 
