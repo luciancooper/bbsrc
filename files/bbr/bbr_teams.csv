@@ -1,1479 +1,1479 @@
-year,team,franchise,name
-1964,BAL,BAL,Baltimore Orioles
-1964,BOS,BOS,Boston Red Sox
-1964,CHC,CHC,Chicago Cubs
-1964,CHW,CHW,Chicago White Sox
-1964,CIN,CIN,Cincinnati Reds
-1964,CLE,CLE,Cleveland Indians
-1964,DET,DET,Detroit Tigers
-1964,HOU,HOU,Houston Astros
-1964,KCA,OAK,Kansas City Athletics
-1964,LAA,ANA,Los Angeles Angels
-1964,LAD,LAD,Los Angeles Dodgers
-1964,MIN,MIN,Minnesota Twins
-1964,MLN,ATL,Milwaukee Braves
-1964,NYM,NYM,New York Mets
-1964,NYY,NYY,New York Yankees
-1964,PHI,PHI,Philadelphia Phillies
-1964,PIT,PIT,Pittsburgh Pirates
-1964,SFG,SFG,San Francisco Giants
-1964,STL,STL,St. Louis Cardinals
-1964,WSA,TEX,Washington Senators
-1965,BAL,BAL,Baltimore Orioles
-1965,BOS,BOS,Boston Red Sox
-1965,CAL,ANA,California Angels
-1965,CHC,CHC,Chicago Cubs
-1965,CHW,CHW,Chicago White Sox
-1965,CIN,CIN,Cincinnati Reds
-1965,CLE,CLE,Cleveland Indians
-1965,DET,DET,Detroit Tigers
-1965,HOU,HOU,Houston Astros
-1965,KCA,OAK,Kansas City Athletics
-1965,LAD,LAD,Los Angeles Dodgers
-1965,MIN,MIN,Minnesota Twins
-1965,MLN,ATL,Milwaukee Braves
-1965,NYM,NYM,New York Mets
-1965,NYY,NYY,New York Yankees
-1965,PHI,PHI,Philadelphia Phillies
-1965,PIT,PIT,Pittsburgh Pirates
-1965,SFG,SFG,San Francisco Giants
-1965,STL,STL,St. Louis Cardinals
-1965,WSA,TEX,Washington Senators
-1966,ATL,ATL,Atlanta Braves
-1966,BAL,BAL,Baltimore Orioles
-1966,BOS,BOS,Boston Red Sox
-1966,CAL,ANA,California Angels
-1966,CHC,CHC,Chicago Cubs
-1966,CHW,CHW,Chicago White Sox
-1966,CIN,CIN,Cincinnati Reds
-1966,CLE,CLE,Cleveland Indians
-1966,DET,DET,Detroit Tigers
-1966,HOU,HOU,Houston Astros
-1966,KCA,OAK,Kansas City Athletics
-1966,LAD,LAD,Los Angeles Dodgers
-1966,MIN,MIN,Minnesota Twins
-1966,NYM,NYM,New York Mets
-1966,NYY,NYY,New York Yankees
-1966,PHI,PHI,Philadelphia Phillies
-1966,PIT,PIT,Pittsburgh Pirates
-1966,SFG,SFG,San Francisco Giants
-1966,STL,STL,St. Louis Cardinals
-1966,WSA,TEX,Washington Senators
-1967,ATL,ATL,Atlanta Braves
-1967,BAL,BAL,Baltimore Orioles
-1967,BOS,BOS,Boston Red Sox
-1967,CAL,ANA,California Angels
-1967,CHC,CHC,Chicago Cubs
-1967,CHW,CHW,Chicago White Sox
-1967,CIN,CIN,Cincinnati Reds
-1967,CLE,CLE,Cleveland Indians
-1967,DET,DET,Detroit Tigers
-1967,HOU,HOU,Houston Astros
-1967,KCA,OAK,Kansas City Athletics
-1967,LAD,LAD,Los Angeles Dodgers
-1967,MIN,MIN,Minnesota Twins
-1967,NYM,NYM,New York Mets
-1967,NYY,NYY,New York Yankees
-1967,PHI,PHI,Philadelphia Phillies
-1967,PIT,PIT,Pittsburgh Pirates
-1967,SFG,SFG,San Francisco Giants
-1967,STL,STL,St. Louis Cardinals
-1967,WSA,TEX,Washington Senators
-1968,ATL,ATL,Atlanta Braves
-1968,BAL,BAL,Baltimore Orioles
-1968,BOS,BOS,Boston Red Sox
-1968,CAL,ANA,California Angels
-1968,CHC,CHC,Chicago Cubs
-1968,CHW,CHW,Chicago White Sox
-1968,CIN,CIN,Cincinnati Reds
-1968,CLE,CLE,Cleveland Indians
-1968,DET,DET,Detroit Tigers
-1968,HOU,HOU,Houston Astros
-1968,LAD,LAD,Los Angeles Dodgers
-1968,MIN,MIN,Minnesota Twins
-1968,NYM,NYM,New York Mets
-1968,NYY,NYY,New York Yankees
-1968,OAK,OAK,Oakland Athletics
-1968,PHI,PHI,Philadelphia Phillies
-1968,PIT,PIT,Pittsburgh Pirates
-1968,SFG,SFG,San Francisco Giants
-1968,STL,STL,St. Louis Cardinals
-1968,WSA,TEX,Washington Senators
-1969,ATL,ATL,Atlanta Braves
-1969,BAL,BAL,Baltimore Orioles
-1969,BOS,BOS,Boston Red Sox
-1969,CAL,ANA,California Angels
-1969,CHC,CHC,Chicago Cubs
-1969,CHW,CHW,Chicago White Sox
-1969,CIN,CIN,Cincinnati Reds
-1969,CLE,CLE,Cleveland Indians
-1969,DET,DET,Detroit Tigers
-1969,HOU,HOU,Houston Astros
-1969,KCR,KCR,Kansas City Royals
-1969,LAD,LAD,Los Angeles Dodgers
-1969,MIN,MIN,Minnesota Twins
-1969,MON,WSN,Montreal Expos
-1969,NYM,NYM,New York Mets
-1969,NYY,NYY,New York Yankees
-1969,OAK,OAK,Oakland Athletics
-1969,PHI,PHI,Philadelphia Phillies
-1969,PIT,PIT,Pittsburgh Pirates
-1969,SDP,SDP,San Diego Padres
-1969,SEP,MIL,Seattle Pilots
-1969,SFG,SFG,San Francisco Giants
-1969,STL,STL,St. Louis Cardinals
-1969,WSA,TEX,Washington Senators
-1970,ATL,ATL,Atlanta Braves
-1970,BAL,BAL,Baltimore Orioles
-1970,BOS,BOS,Boston Red Sox
-1970,CAL,ANA,California Angels
-1970,CHC,CHC,Chicago Cubs
-1970,CHW,CHW,Chicago White Sox
-1970,CIN,CIN,Cincinnati Reds
-1970,CLE,CLE,Cleveland Indians
-1970,DET,DET,Detroit Tigers
-1970,HOU,HOU,Houston Astros
-1970,KCR,KCR,Kansas City Royals
-1970,LAD,LAD,Los Angeles Dodgers
-1970,MIL,MIL,Milwaukee Brewers
-1970,MIN,MIN,Minnesota Twins
-1970,MON,WSN,Montreal Expos
-1970,NYM,NYM,New York Mets
-1970,NYY,NYY,New York Yankees
-1970,OAK,OAK,Oakland Athletics
-1970,PHI,PHI,Philadelphia Phillies
-1970,PIT,PIT,Pittsburgh Pirates
-1970,SDP,SDP,San Diego Padres
-1970,SFG,SFG,San Francisco Giants
-1970,STL,STL,St. Louis Cardinals
-1970,WSA,TEX,Washington Senators
-1971,ATL,ATL,Atlanta Braves
-1971,BAL,BAL,Baltimore Orioles
-1971,BOS,BOS,Boston Red Sox
-1971,CAL,ANA,California Angels
-1971,CHC,CHC,Chicago Cubs
-1971,CHW,CHW,Chicago White Sox
-1971,CIN,CIN,Cincinnati Reds
-1971,CLE,CLE,Cleveland Indians
-1971,DET,DET,Detroit Tigers
-1971,HOU,HOU,Houston Astros
-1971,KCR,KCR,Kansas City Royals
-1971,LAD,LAD,Los Angeles Dodgers
-1971,MIL,MIL,Milwaukee Brewers
-1971,MIN,MIN,Minnesota Twins
-1971,MON,WSN,Montreal Expos
-1971,NYM,NYM,New York Mets
-1971,NYY,NYY,New York Yankees
-1971,OAK,OAK,Oakland Athletics
-1971,PHI,PHI,Philadelphia Phillies
-1971,PIT,PIT,Pittsburgh Pirates
-1971,SDP,SDP,San Diego Padres
-1971,SFG,SFG,San Francisco Giants
-1971,STL,STL,St. Louis Cardinals
-1971,WSA,TEX,Washington Senators
-1972,ATL,ATL,Atlanta Braves
-1972,BAL,BAL,Baltimore Orioles
-1972,BOS,BOS,Boston Red Sox
-1972,CAL,ANA,California Angels
-1972,CHC,CHC,Chicago Cubs
-1972,CHW,CHW,Chicago White Sox
-1972,CIN,CIN,Cincinnati Reds
-1972,CLE,CLE,Cleveland Indians
-1972,DET,DET,Detroit Tigers
-1972,HOU,HOU,Houston Astros
-1972,KCR,KCR,Kansas City Royals
-1972,LAD,LAD,Los Angeles Dodgers
-1972,MIL,MIL,Milwaukee Brewers
-1972,MIN,MIN,Minnesota Twins
-1972,MON,WSN,Montreal Expos
-1972,NYM,NYM,New York Mets
-1972,NYY,NYY,New York Yankees
-1972,OAK,OAK,Oakland Athletics
-1972,PHI,PHI,Philadelphia Phillies
-1972,PIT,PIT,Pittsburgh Pirates
-1972,SDP,SDP,San Diego Padres
-1972,SFG,SFG,San Francisco Giants
-1972,STL,STL,St. Louis Cardinals
-1972,TEX,TEX,Texas Rangers
-1973,ATL,ATL,Atlanta Braves
-1973,BAL,BAL,Baltimore Orioles
-1973,BOS,BOS,Boston Red Sox
-1973,CAL,ANA,California Angels
-1973,CHC,CHC,Chicago Cubs
-1973,CHW,CHW,Chicago White Sox
-1973,CIN,CIN,Cincinnati Reds
-1973,CLE,CLE,Cleveland Indians
-1973,DET,DET,Detroit Tigers
-1973,HOU,HOU,Houston Astros
-1973,KCR,KCR,Kansas City Royals
-1973,LAD,LAD,Los Angeles Dodgers
-1973,MIL,MIL,Milwaukee Brewers
-1973,MIN,MIN,Minnesota Twins
-1973,MON,WSN,Montreal Expos
-1973,NYM,NYM,New York Mets
-1973,NYY,NYY,New York Yankees
-1973,OAK,OAK,Oakland Athletics
-1973,PHI,PHI,Philadelphia Phillies
-1973,PIT,PIT,Pittsburgh Pirates
-1973,SDP,SDP,San Diego Padres
-1973,SFG,SFG,San Francisco Giants
-1973,STL,STL,St. Louis Cardinals
-1973,TEX,TEX,Texas Rangers
-1974,ATL,ATL,Atlanta Braves
-1974,BAL,BAL,Baltimore Orioles
-1974,BOS,BOS,Boston Red Sox
-1974,CAL,ANA,California Angels
-1974,CHC,CHC,Chicago Cubs
-1974,CHW,CHW,Chicago White Sox
-1974,CIN,CIN,Cincinnati Reds
-1974,CLE,CLE,Cleveland Indians
-1974,DET,DET,Detroit Tigers
-1974,HOU,HOU,Houston Astros
-1974,KCR,KCR,Kansas City Royals
-1974,LAD,LAD,Los Angeles Dodgers
-1974,MIL,MIL,Milwaukee Brewers
-1974,MIN,MIN,Minnesota Twins
-1974,MON,WSN,Montreal Expos
-1974,NYM,NYM,New York Mets
-1974,NYY,NYY,New York Yankees
-1974,OAK,OAK,Oakland Athletics
-1974,PHI,PHI,Philadelphia Phillies
-1974,PIT,PIT,Pittsburgh Pirates
-1974,SDP,SDP,San Diego Padres
-1974,SFG,SFG,San Francisco Giants
-1974,STL,STL,St. Louis Cardinals
-1974,TEX,TEX,Texas Rangers
-1975,ATL,ATL,Atlanta Braves
-1975,BAL,BAL,Baltimore Orioles
-1975,BOS,BOS,Boston Red Sox
-1975,CAL,ANA,California Angels
-1975,CHC,CHC,Chicago Cubs
-1975,CHW,CHW,Chicago White Sox
-1975,CIN,CIN,Cincinnati Reds
-1975,CLE,CLE,Cleveland Indians
-1975,DET,DET,Detroit Tigers
-1975,HOU,HOU,Houston Astros
-1975,KCR,KCR,Kansas City Royals
-1975,LAD,LAD,Los Angeles Dodgers
-1975,MIL,MIL,Milwaukee Brewers
-1975,MIN,MIN,Minnesota Twins
-1975,MON,WSN,Montreal Expos
-1975,NYM,NYM,New York Mets
-1975,NYY,NYY,New York Yankees
-1975,OAK,OAK,Oakland Athletics
-1975,PHI,PHI,Philadelphia Phillies
-1975,PIT,PIT,Pittsburgh Pirates
-1975,SDP,SDP,San Diego Padres
-1975,SFG,SFG,San Francisco Giants
-1975,STL,STL,St. Louis Cardinals
-1975,TEX,TEX,Texas Rangers
-1976,ATL,ATL,Atlanta Braves
-1976,BAL,BAL,Baltimore Orioles
-1976,BOS,BOS,Boston Red Sox
-1976,CAL,ANA,California Angels
-1976,CHC,CHC,Chicago Cubs
-1976,CHW,CHW,Chicago White Sox
-1976,CIN,CIN,Cincinnati Reds
-1976,CLE,CLE,Cleveland Indians
-1976,DET,DET,Detroit Tigers
-1976,HOU,HOU,Houston Astros
-1976,KCR,KCR,Kansas City Royals
-1976,LAD,LAD,Los Angeles Dodgers
-1976,MIL,MIL,Milwaukee Brewers
-1976,MIN,MIN,Minnesota Twins
-1976,MON,WSN,Montreal Expos
-1976,NYM,NYM,New York Mets
-1976,NYY,NYY,New York Yankees
-1976,OAK,OAK,Oakland Athletics
-1976,PHI,PHI,Philadelphia Phillies
-1976,PIT,PIT,Pittsburgh Pirates
-1976,SDP,SDP,San Diego Padres
-1976,SFG,SFG,San Francisco Giants
-1976,STL,STL,St. Louis Cardinals
-1976,TEX,TEX,Texas Rangers
-1977,ATL,ATL,Atlanta Braves
-1977,BAL,BAL,Baltimore Orioles
-1977,BOS,BOS,Boston Red Sox
-1977,CAL,ANA,California Angels
-1977,CHC,CHC,Chicago Cubs
-1977,CHW,CHW,Chicago White Sox
-1977,CIN,CIN,Cincinnati Reds
-1977,CLE,CLE,Cleveland Indians
-1977,DET,DET,Detroit Tigers
-1977,HOU,HOU,Houston Astros
-1977,KCR,KCR,Kansas City Royals
-1977,LAD,LAD,Los Angeles Dodgers
-1977,MIL,MIL,Milwaukee Brewers
-1977,MIN,MIN,Minnesota Twins
-1977,MON,WSN,Montreal Expos
-1977,NYM,NYM,New York Mets
-1977,NYY,NYY,New York Yankees
-1977,OAK,OAK,Oakland Athletics
-1977,PHI,PHI,Philadelphia Phillies
-1977,PIT,PIT,Pittsburgh Pirates
-1977,SDP,SDP,San Diego Padres
-1977,SEA,SEA,Seattle Mariners
-1977,SFG,SFG,San Francisco Giants
-1977,STL,STL,St. Louis Cardinals
-1977,TEX,TEX,Texas Rangers
-1977,TOR,TOR,Toronto Blue Jays
-1978,ATL,ATL,Atlanta Braves
-1978,BAL,BAL,Baltimore Orioles
-1978,BOS,BOS,Boston Red Sox
-1978,CAL,ANA,California Angels
-1978,CHC,CHC,Chicago Cubs
-1978,CHW,CHW,Chicago White Sox
-1978,CIN,CIN,Cincinnati Reds
-1978,CLE,CLE,Cleveland Indians
-1978,DET,DET,Detroit Tigers
-1978,HOU,HOU,Houston Astros
-1978,KCR,KCR,Kansas City Royals
-1978,LAD,LAD,Los Angeles Dodgers
-1978,MIL,MIL,Milwaukee Brewers
-1978,MIN,MIN,Minnesota Twins
-1978,MON,WSN,Montreal Expos
-1978,NYM,NYM,New York Mets
-1978,NYY,NYY,New York Yankees
-1978,OAK,OAK,Oakland Athletics
-1978,PHI,PHI,Philadelphia Phillies
-1978,PIT,PIT,Pittsburgh Pirates
-1978,SDP,SDP,San Diego Padres
-1978,SEA,SEA,Seattle Mariners
-1978,SFG,SFG,San Francisco Giants
-1978,STL,STL,St. Louis Cardinals
-1978,TEX,TEX,Texas Rangers
-1978,TOR,TOR,Toronto Blue Jays
-1979,ATL,ATL,Atlanta Braves
-1979,BAL,BAL,Baltimore Orioles
-1979,BOS,BOS,Boston Red Sox
-1979,CAL,ANA,California Angels
-1979,CHC,CHC,Chicago Cubs
-1979,CHW,CHW,Chicago White Sox
-1979,CIN,CIN,Cincinnati Reds
-1979,CLE,CLE,Cleveland Indians
-1979,DET,DET,Detroit Tigers
-1979,HOU,HOU,Houston Astros
-1979,KCR,KCR,Kansas City Royals
-1979,LAD,LAD,Los Angeles Dodgers
-1979,MIL,MIL,Milwaukee Brewers
-1979,MIN,MIN,Minnesota Twins
-1979,MON,WSN,Montreal Expos
-1979,NYM,NYM,New York Mets
-1979,NYY,NYY,New York Yankees
-1979,OAK,OAK,Oakland Athletics
-1979,PHI,PHI,Philadelphia Phillies
-1979,PIT,PIT,Pittsburgh Pirates
-1979,SDP,SDP,San Diego Padres
-1979,SEA,SEA,Seattle Mariners
-1979,SFG,SFG,San Francisco Giants
-1979,STL,STL,St. Louis Cardinals
-1979,TEX,TEX,Texas Rangers
-1979,TOR,TOR,Toronto Blue Jays
-1980,ATL,ATL,Atlanta Braves
-1980,BAL,BAL,Baltimore Orioles
-1980,BOS,BOS,Boston Red Sox
-1980,CAL,ANA,California Angels
-1980,CHC,CHC,Chicago Cubs
-1980,CHW,CHW,Chicago White Sox
-1980,CIN,CIN,Cincinnati Reds
-1980,CLE,CLE,Cleveland Indians
-1980,DET,DET,Detroit Tigers
-1980,HOU,HOU,Houston Astros
-1980,KCR,KCR,Kansas City Royals
-1980,LAD,LAD,Los Angeles Dodgers
-1980,MIL,MIL,Milwaukee Brewers
-1980,MIN,MIN,Minnesota Twins
-1980,MON,WSN,Montreal Expos
-1980,NYM,NYM,New York Mets
-1980,NYY,NYY,New York Yankees
-1980,OAK,OAK,Oakland Athletics
-1980,PHI,PHI,Philadelphia Phillies
-1980,PIT,PIT,Pittsburgh Pirates
-1980,SDP,SDP,San Diego Padres
-1980,SEA,SEA,Seattle Mariners
-1980,SFG,SFG,San Francisco Giants
-1980,STL,STL,St. Louis Cardinals
-1980,TEX,TEX,Texas Rangers
-1980,TOR,TOR,Toronto Blue Jays
-1981,ATL,ATL,Atlanta Braves
-1981,BAL,BAL,Baltimore Orioles
-1981,BOS,BOS,Boston Red Sox
-1981,CAL,ANA,California Angels
-1981,CHC,CHC,Chicago Cubs
-1981,CHW,CHW,Chicago White Sox
-1981,CIN,CIN,Cincinnati Reds
-1981,CLE,CLE,Cleveland Indians
-1981,DET,DET,Detroit Tigers
-1981,HOU,HOU,Houston Astros
-1981,KCR,KCR,Kansas City Royals
-1981,LAD,LAD,Los Angeles Dodgers
-1981,MIL,MIL,Milwaukee Brewers
-1981,MIN,MIN,Minnesota Twins
-1981,MON,WSN,Montreal Expos
-1981,NYM,NYM,New York Mets
-1981,NYY,NYY,New York Yankees
-1981,OAK,OAK,Oakland Athletics
-1981,PHI,PHI,Philadelphia Phillies
-1981,PIT,PIT,Pittsburgh Pirates
-1981,SDP,SDP,San Diego Padres
-1981,SEA,SEA,Seattle Mariners
-1981,SFG,SFG,San Francisco Giants
-1981,STL,STL,St. Louis Cardinals
-1981,TEX,TEX,Texas Rangers
-1981,TOR,TOR,Toronto Blue Jays
-1982,ATL,ATL,Atlanta Braves
-1982,BAL,BAL,Baltimore Orioles
-1982,BOS,BOS,Boston Red Sox
-1982,CAL,ANA,California Angels
-1982,CHC,CHC,Chicago Cubs
-1982,CHW,CHW,Chicago White Sox
-1982,CIN,CIN,Cincinnati Reds
-1982,CLE,CLE,Cleveland Indians
-1982,DET,DET,Detroit Tigers
-1982,HOU,HOU,Houston Astros
-1982,KCR,KCR,Kansas City Royals
-1982,LAD,LAD,Los Angeles Dodgers
-1982,MIL,MIL,Milwaukee Brewers
-1982,MIN,MIN,Minnesota Twins
-1982,MON,WSN,Montreal Expos
-1982,NYM,NYM,New York Mets
-1982,NYY,NYY,New York Yankees
-1982,OAK,OAK,Oakland Athletics
-1982,PHI,PHI,Philadelphia Phillies
-1982,PIT,PIT,Pittsburgh Pirates
-1982,SDP,SDP,San Diego Padres
-1982,SEA,SEA,Seattle Mariners
-1982,SFG,SFG,San Francisco Giants
-1982,STL,STL,St. Louis Cardinals
-1982,TEX,TEX,Texas Rangers
-1982,TOR,TOR,Toronto Blue Jays
-1983,ATL,ATL,Atlanta Braves
-1983,BAL,BAL,Baltimore Orioles
-1983,BOS,BOS,Boston Red Sox
-1983,CAL,ANA,California Angels
-1983,CHC,CHC,Chicago Cubs
-1983,CHW,CHW,Chicago White Sox
-1983,CIN,CIN,Cincinnati Reds
-1983,CLE,CLE,Cleveland Indians
-1983,DET,DET,Detroit Tigers
-1983,HOU,HOU,Houston Astros
-1983,KCR,KCR,Kansas City Royals
-1983,LAD,LAD,Los Angeles Dodgers
-1983,MIL,MIL,Milwaukee Brewers
-1983,MIN,MIN,Minnesota Twins
-1983,MON,WSN,Montreal Expos
-1983,NYM,NYM,New York Mets
-1983,NYY,NYY,New York Yankees
-1983,OAK,OAK,Oakland Athletics
-1983,PHI,PHI,Philadelphia Phillies
-1983,PIT,PIT,Pittsburgh Pirates
-1983,SDP,SDP,San Diego Padres
-1983,SEA,SEA,Seattle Mariners
-1983,SFG,SFG,San Francisco Giants
-1983,STL,STL,St. Louis Cardinals
-1983,TEX,TEX,Texas Rangers
-1983,TOR,TOR,Toronto Blue Jays
-1984,ATL,ATL,Atlanta Braves
-1984,BAL,BAL,Baltimore Orioles
-1984,BOS,BOS,Boston Red Sox
-1984,CAL,ANA,California Angels
-1984,CHC,CHC,Chicago Cubs
-1984,CHW,CHW,Chicago White Sox
-1984,CIN,CIN,Cincinnati Reds
-1984,CLE,CLE,Cleveland Indians
-1984,DET,DET,Detroit Tigers
-1984,HOU,HOU,Houston Astros
-1984,KCR,KCR,Kansas City Royals
-1984,LAD,LAD,Los Angeles Dodgers
-1984,MIL,MIL,Milwaukee Brewers
-1984,MIN,MIN,Minnesota Twins
-1984,MON,WSN,Montreal Expos
-1984,NYM,NYM,New York Mets
-1984,NYY,NYY,New York Yankees
-1984,OAK,OAK,Oakland Athletics
-1984,PHI,PHI,Philadelphia Phillies
-1984,PIT,PIT,Pittsburgh Pirates
-1984,SDP,SDP,San Diego Padres
-1984,SEA,SEA,Seattle Mariners
-1984,SFG,SFG,San Francisco Giants
-1984,STL,STL,St. Louis Cardinals
-1984,TEX,TEX,Texas Rangers
-1984,TOR,TOR,Toronto Blue Jays
-1985,ATL,ATL,Atlanta Braves
-1985,BAL,BAL,Baltimore Orioles
-1985,BOS,BOS,Boston Red Sox
-1985,CAL,ANA,California Angels
-1985,CHC,CHC,Chicago Cubs
-1985,CHW,CHW,Chicago White Sox
-1985,CIN,CIN,Cincinnati Reds
-1985,CLE,CLE,Cleveland Indians
-1985,DET,DET,Detroit Tigers
-1985,HOU,HOU,Houston Astros
-1985,KCR,KCR,Kansas City Royals
-1985,LAD,LAD,Los Angeles Dodgers
-1985,MIL,MIL,Milwaukee Brewers
-1985,MIN,MIN,Minnesota Twins
-1985,MON,WSN,Montreal Expos
-1985,NYM,NYM,New York Mets
-1985,NYY,NYY,New York Yankees
-1985,OAK,OAK,Oakland Athletics
-1985,PHI,PHI,Philadelphia Phillies
-1985,PIT,PIT,Pittsburgh Pirates
-1985,SDP,SDP,San Diego Padres
-1985,SEA,SEA,Seattle Mariners
-1985,SFG,SFG,San Francisco Giants
-1985,STL,STL,St. Louis Cardinals
-1985,TEX,TEX,Texas Rangers
-1985,TOR,TOR,Toronto Blue Jays
-1986,ATL,ATL,Atlanta Braves
-1986,BAL,BAL,Baltimore Orioles
-1986,BOS,BOS,Boston Red Sox
-1986,CAL,ANA,California Angels
-1986,CHC,CHC,Chicago Cubs
-1986,CHW,CHW,Chicago White Sox
-1986,CIN,CIN,Cincinnati Reds
-1986,CLE,CLE,Cleveland Indians
-1986,DET,DET,Detroit Tigers
-1986,HOU,HOU,Houston Astros
-1986,KCR,KCR,Kansas City Royals
-1986,LAD,LAD,Los Angeles Dodgers
-1986,MIL,MIL,Milwaukee Brewers
-1986,MIN,MIN,Minnesota Twins
-1986,MON,WSN,Montreal Expos
-1986,NYM,NYM,New York Mets
-1986,NYY,NYY,New York Yankees
-1986,OAK,OAK,Oakland Athletics
-1986,PHI,PHI,Philadelphia Phillies
-1986,PIT,PIT,Pittsburgh Pirates
-1986,SDP,SDP,San Diego Padres
-1986,SEA,SEA,Seattle Mariners
-1986,SFG,SFG,San Francisco Giants
-1986,STL,STL,St. Louis Cardinals
-1986,TEX,TEX,Texas Rangers
-1986,TOR,TOR,Toronto Blue Jays
-1987,ATL,ATL,Atlanta Braves
-1987,BAL,BAL,Baltimore Orioles
-1987,BOS,BOS,Boston Red Sox
-1987,CAL,ANA,California Angels
-1987,CHC,CHC,Chicago Cubs
-1987,CHW,CHW,Chicago White Sox
-1987,CIN,CIN,Cincinnati Reds
-1987,CLE,CLE,Cleveland Indians
-1987,DET,DET,Detroit Tigers
-1987,HOU,HOU,Houston Astros
-1987,KCR,KCR,Kansas City Royals
-1987,LAD,LAD,Los Angeles Dodgers
-1987,MIL,MIL,Milwaukee Brewers
-1987,MIN,MIN,Minnesota Twins
-1987,MON,WSN,Montreal Expos
-1987,NYM,NYM,New York Mets
-1987,NYY,NYY,New York Yankees
-1987,OAK,OAK,Oakland Athletics
-1987,PHI,PHI,Philadelphia Phillies
-1987,PIT,PIT,Pittsburgh Pirates
-1987,SDP,SDP,San Diego Padres
-1987,SEA,SEA,Seattle Mariners
-1987,SFG,SFG,San Francisco Giants
-1987,STL,STL,St. Louis Cardinals
-1987,TEX,TEX,Texas Rangers
-1987,TOR,TOR,Toronto Blue Jays
-1988,ATL,ATL,Atlanta Braves
-1988,BAL,BAL,Baltimore Orioles
-1988,BOS,BOS,Boston Red Sox
-1988,CAL,ANA,California Angels
-1988,CHC,CHC,Chicago Cubs
-1988,CHW,CHW,Chicago White Sox
-1988,CIN,CIN,Cincinnati Reds
-1988,CLE,CLE,Cleveland Indians
-1988,DET,DET,Detroit Tigers
-1988,HOU,HOU,Houston Astros
-1988,KCR,KCR,Kansas City Royals
-1988,LAD,LAD,Los Angeles Dodgers
-1988,MIL,MIL,Milwaukee Brewers
-1988,MIN,MIN,Minnesota Twins
-1988,MON,WSN,Montreal Expos
-1988,NYM,NYM,New York Mets
-1988,NYY,NYY,New York Yankees
-1988,OAK,OAK,Oakland Athletics
-1988,PHI,PHI,Philadelphia Phillies
-1988,PIT,PIT,Pittsburgh Pirates
-1988,SDP,SDP,San Diego Padres
-1988,SEA,SEA,Seattle Mariners
-1988,SFG,SFG,San Francisco Giants
-1988,STL,STL,St. Louis Cardinals
-1988,TEX,TEX,Texas Rangers
-1988,TOR,TOR,Toronto Blue Jays
-1989,ATL,ATL,Atlanta Braves
-1989,BAL,BAL,Baltimore Orioles
-1989,BOS,BOS,Boston Red Sox
-1989,CAL,ANA,California Angels
-1989,CHC,CHC,Chicago Cubs
-1989,CHW,CHW,Chicago White Sox
-1989,CIN,CIN,Cincinnati Reds
-1989,CLE,CLE,Cleveland Indians
-1989,DET,DET,Detroit Tigers
-1989,HOU,HOU,Houston Astros
-1989,KCR,KCR,Kansas City Royals
-1989,LAD,LAD,Los Angeles Dodgers
-1989,MIL,MIL,Milwaukee Brewers
-1989,MIN,MIN,Minnesota Twins
-1989,MON,WSN,Montreal Expos
-1989,NYM,NYM,New York Mets
-1989,NYY,NYY,New York Yankees
-1989,OAK,OAK,Oakland Athletics
-1989,PHI,PHI,Philadelphia Phillies
-1989,PIT,PIT,Pittsburgh Pirates
-1989,SDP,SDP,San Diego Padres
-1989,SEA,SEA,Seattle Mariners
-1989,SFG,SFG,San Francisco Giants
-1989,STL,STL,St. Louis Cardinals
-1989,TEX,TEX,Texas Rangers
-1989,TOR,TOR,Toronto Blue Jays
-1990,ATL,ATL,Atlanta Braves
-1990,BAL,BAL,Baltimore Orioles
-1990,BOS,BOS,Boston Red Sox
-1990,CAL,ANA,California Angels
-1990,CHC,CHC,Chicago Cubs
-1990,CHW,CHW,Chicago White Sox
-1990,CIN,CIN,Cincinnati Reds
-1990,CLE,CLE,Cleveland Indians
-1990,DET,DET,Detroit Tigers
-1990,HOU,HOU,Houston Astros
-1990,KCR,KCR,Kansas City Royals
-1990,LAD,LAD,Los Angeles Dodgers
-1990,MIL,MIL,Milwaukee Brewers
-1990,MIN,MIN,Minnesota Twins
-1990,MON,WSN,Montreal Expos
-1990,NYM,NYM,New York Mets
-1990,NYY,NYY,New York Yankees
-1990,OAK,OAK,Oakland Athletics
-1990,PHI,PHI,Philadelphia Phillies
-1990,PIT,PIT,Pittsburgh Pirates
-1990,SDP,SDP,San Diego Padres
-1990,SEA,SEA,Seattle Mariners
-1990,SFG,SFG,San Francisco Giants
-1990,STL,STL,St. Louis Cardinals
-1990,TEX,TEX,Texas Rangers
-1990,TOR,TOR,Toronto Blue Jays
-1991,ATL,ATL,Atlanta Braves
-1991,BAL,BAL,Baltimore Orioles
-1991,BOS,BOS,Boston Red Sox
-1991,CAL,ANA,California Angels
-1991,CHC,CHC,Chicago Cubs
-1991,CHW,CHW,Chicago White Sox
-1991,CIN,CIN,Cincinnati Reds
-1991,CLE,CLE,Cleveland Indians
-1991,DET,DET,Detroit Tigers
-1991,HOU,HOU,Houston Astros
-1991,KCR,KCR,Kansas City Royals
-1991,LAD,LAD,Los Angeles Dodgers
-1991,MIL,MIL,Milwaukee Brewers
-1991,MIN,MIN,Minnesota Twins
-1991,MON,WSN,Montreal Expos
-1991,NYM,NYM,New York Mets
-1991,NYY,NYY,New York Yankees
-1991,OAK,OAK,Oakland Athletics
-1991,PHI,PHI,Philadelphia Phillies
-1991,PIT,PIT,Pittsburgh Pirates
-1991,SDP,SDP,San Diego Padres
-1991,SEA,SEA,Seattle Mariners
-1991,SFG,SFG,San Francisco Giants
-1991,STL,STL,St. Louis Cardinals
-1991,TEX,TEX,Texas Rangers
-1991,TOR,TOR,Toronto Blue Jays
-1992,ATL,ATL,Atlanta Braves
-1992,BAL,BAL,Baltimore Orioles
-1992,BOS,BOS,Boston Red Sox
-1992,CAL,ANA,California Angels
-1992,CHC,CHC,Chicago Cubs
-1992,CHW,CHW,Chicago White Sox
-1992,CIN,CIN,Cincinnati Reds
-1992,CLE,CLE,Cleveland Indians
-1992,DET,DET,Detroit Tigers
-1992,HOU,HOU,Houston Astros
-1992,KCR,KCR,Kansas City Royals
-1992,LAD,LAD,Los Angeles Dodgers
-1992,MIL,MIL,Milwaukee Brewers
-1992,MIN,MIN,Minnesota Twins
-1992,MON,WSN,Montreal Expos
-1992,NYM,NYM,New York Mets
-1992,NYY,NYY,New York Yankees
-1992,OAK,OAK,Oakland Athletics
-1992,PHI,PHI,Philadelphia Phillies
-1992,PIT,PIT,Pittsburgh Pirates
-1992,SDP,SDP,San Diego Padres
-1992,SEA,SEA,Seattle Mariners
-1992,SFG,SFG,San Francisco Giants
-1992,STL,STL,St. Louis Cardinals
-1992,TEX,TEX,Texas Rangers
-1992,TOR,TOR,Toronto Blue Jays
-1993,ATL,ATL,Atlanta Braves
-1993,BAL,BAL,Baltimore Orioles
-1993,BOS,BOS,Boston Red Sox
-1993,CAL,ANA,California Angels
-1993,CHC,CHC,Chicago Cubs
-1993,CHW,CHW,Chicago White Sox
-1993,CIN,CIN,Cincinnati Reds
-1993,CLE,CLE,Cleveland Indians
-1993,COL,COL,Colorado Rockies
-1993,DET,DET,Detroit Tigers
-1993,FLA,FLA,Florida Marlins
-1993,HOU,HOU,Houston Astros
-1993,KCR,KCR,Kansas City Royals
-1993,LAD,LAD,Los Angeles Dodgers
-1993,MIL,MIL,Milwaukee Brewers
-1993,MIN,MIN,Minnesota Twins
-1993,MON,WSN,Montreal Expos
-1993,NYM,NYM,New York Mets
-1993,NYY,NYY,New York Yankees
-1993,OAK,OAK,Oakland Athletics
-1993,PHI,PHI,Philadelphia Phillies
-1993,PIT,PIT,Pittsburgh Pirates
-1993,SDP,SDP,San Diego Padres
-1993,SEA,SEA,Seattle Mariners
-1993,SFG,SFG,San Francisco Giants
-1993,STL,STL,St. Louis Cardinals
-1993,TEX,TEX,Texas Rangers
-1993,TOR,TOR,Toronto Blue Jays
-1994,ATL,ATL,Atlanta Braves
-1994,BAL,BAL,Baltimore Orioles
-1994,BOS,BOS,Boston Red Sox
-1994,CAL,ANA,California Angels
-1994,CHC,CHC,Chicago Cubs
-1994,CHW,CHW,Chicago White Sox
-1994,CIN,CIN,Cincinnati Reds
-1994,CLE,CLE,Cleveland Indians
-1994,COL,COL,Colorado Rockies
-1994,DET,DET,Detroit Tigers
-1994,FLA,FLA,Florida Marlins
-1994,HOU,HOU,Houston Astros
-1994,KCR,KCR,Kansas City Royals
-1994,LAD,LAD,Los Angeles Dodgers
-1994,MIL,MIL,Milwaukee Brewers
-1994,MIN,MIN,Minnesota Twins
-1994,MON,WSN,Montreal Expos
-1994,NYM,NYM,New York Mets
-1994,NYY,NYY,New York Yankees
-1994,OAK,OAK,Oakland Athletics
-1994,PHI,PHI,Philadelphia Phillies
-1994,PIT,PIT,Pittsburgh Pirates
-1994,SDP,SDP,San Diego Padres
-1994,SEA,SEA,Seattle Mariners
-1994,SFG,SFG,San Francisco Giants
-1994,STL,STL,St. Louis Cardinals
-1994,TEX,TEX,Texas Rangers
-1994,TOR,TOR,Toronto Blue Jays
-1995,ATL,ATL,Atlanta Braves
-1995,BAL,BAL,Baltimore Orioles
-1995,BOS,BOS,Boston Red Sox
-1995,CAL,ANA,California Angels
-1995,CHC,CHC,Chicago Cubs
-1995,CHW,CHW,Chicago White Sox
-1995,CIN,CIN,Cincinnati Reds
-1995,CLE,CLE,Cleveland Indians
-1995,COL,COL,Colorado Rockies
-1995,DET,DET,Detroit Tigers
-1995,FLA,FLA,Florida Marlins
-1995,HOU,HOU,Houston Astros
-1995,KCR,KCR,Kansas City Royals
-1995,LAD,LAD,Los Angeles Dodgers
-1995,MIL,MIL,Milwaukee Brewers
-1995,MIN,MIN,Minnesota Twins
-1995,MON,WSN,Montreal Expos
-1995,NYM,NYM,New York Mets
-1995,NYY,NYY,New York Yankees
-1995,OAK,OAK,Oakland Athletics
-1995,PHI,PHI,Philadelphia Phillies
-1995,PIT,PIT,Pittsburgh Pirates
-1995,SDP,SDP,San Diego Padres
-1995,SEA,SEA,Seattle Mariners
-1995,SFG,SFG,San Francisco Giants
-1995,STL,STL,St. Louis Cardinals
-1995,TEX,TEX,Texas Rangers
-1995,TOR,TOR,Toronto Blue Jays
-1996,ATL,ATL,Atlanta Braves
-1996,BAL,BAL,Baltimore Orioles
-1996,BOS,BOS,Boston Red Sox
-1996,CAL,ANA,California Angels
-1996,CHC,CHC,Chicago Cubs
-1996,CHW,CHW,Chicago White Sox
-1996,CIN,CIN,Cincinnati Reds
-1996,CLE,CLE,Cleveland Indians
-1996,COL,COL,Colorado Rockies
-1996,DET,DET,Detroit Tigers
-1996,FLA,FLA,Florida Marlins
-1996,HOU,HOU,Houston Astros
-1996,KCR,KCR,Kansas City Royals
-1996,LAD,LAD,Los Angeles Dodgers
-1996,MIL,MIL,Milwaukee Brewers
-1996,MIN,MIN,Minnesota Twins
-1996,MON,WSN,Montreal Expos
-1996,NYM,NYM,New York Mets
-1996,NYY,NYY,New York Yankees
-1996,OAK,OAK,Oakland Athletics
-1996,PHI,PHI,Philadelphia Phillies
-1996,PIT,PIT,Pittsburgh Pirates
-1996,SDP,SDP,San Diego Padres
-1996,SEA,SEA,Seattle Mariners
-1996,SFG,SFG,San Francisco Giants
-1996,STL,STL,St. Louis Cardinals
-1996,TEX,TEX,Texas Rangers
-1996,TOR,TOR,Toronto Blue Jays
-1997,ANA,ANA,Los Angeles Angels of Anaheim
-1997,ATL,ATL,Atlanta Braves
-1997,BAL,BAL,Baltimore Orioles
-1997,BOS,BOS,Boston Red Sox
-1997,CHC,CHC,Chicago Cubs
-1997,CHW,CHW,Chicago White Sox
-1997,CIN,CIN,Cincinnati Reds
-1997,CLE,CLE,Cleveland Indians
-1997,COL,COL,Colorado Rockies
-1997,DET,DET,Detroit Tigers
-1997,FLA,FLA,Florida Marlins
-1997,HOU,HOU,Houston Astros
-1997,KCR,KCR,Kansas City Royals
-1997,LAD,LAD,Los Angeles Dodgers
-1997,MIL,MIL,Milwaukee Brewers
-1997,MIN,MIN,Minnesota Twins
-1997,MON,WSN,Montreal Expos
-1997,NYM,NYM,New York Mets
-1997,NYY,NYY,New York Yankees
-1997,OAK,OAK,Oakland Athletics
-1997,PHI,PHI,Philadelphia Phillies
-1997,PIT,PIT,Pittsburgh Pirates
-1997,SDP,SDP,San Diego Padres
-1997,SEA,SEA,Seattle Mariners
-1997,SFG,SFG,San Francisco Giants
-1997,STL,STL,St. Louis Cardinals
-1997,TEX,TEX,Texas Rangers
-1997,TOR,TOR,Toronto Blue Jays
-1998,ANA,ANA,Los Angeles Angels of Anaheim
-1998,ARI,ARI,Arizona Diamondbacks
-1998,ATL,ATL,Atlanta Braves
-1998,BAL,BAL,Baltimore Orioles
-1998,BOS,BOS,Boston Red Sox
-1998,CHC,CHC,Chicago Cubs
-1998,CHW,CHW,Chicago White Sox
-1998,CIN,CIN,Cincinnati Reds
-1998,CLE,CLE,Cleveland Indians
-1998,COL,COL,Colorado Rockies
-1998,DET,DET,Detroit Tigers
-1998,FLA,FLA,Florida Marlins
-1998,HOU,HOU,Houston Astros
-1998,KCR,KCR,Kansas City Royals
-1998,LAD,LAD,Los Angeles Dodgers
-1998,MIL,MIL,Milwaukee Brewers
-1998,MIN,MIN,Minnesota Twins
-1998,MON,WSN,Montreal Expos
-1998,NYM,NYM,New York Mets
-1998,NYY,NYY,New York Yankees
-1998,OAK,OAK,Oakland Athletics
-1998,PHI,PHI,Philadelphia Phillies
-1998,PIT,PIT,Pittsburgh Pirates
-1998,SDP,SDP,San Diego Padres
-1998,SEA,SEA,Seattle Mariners
-1998,SFG,SFG,San Francisco Giants
-1998,STL,STL,St. Louis Cardinals
-1998,TBD,TBD,Tampa Bay Devil Rays
-1998,TEX,TEX,Texas Rangers
-1998,TOR,TOR,Toronto Blue Jays
-1999,ANA,ANA,Los Angeles Angels of Anaheim
-1999,ARI,ARI,Arizona Diamondbacks
-1999,ATL,ATL,Atlanta Braves
-1999,BAL,BAL,Baltimore Orioles
-1999,BOS,BOS,Boston Red Sox
-1999,CHC,CHC,Chicago Cubs
-1999,CHW,CHW,Chicago White Sox
-1999,CIN,CIN,Cincinnati Reds
-1999,CLE,CLE,Cleveland Indians
-1999,COL,COL,Colorado Rockies
-1999,DET,DET,Detroit Tigers
-1999,FLA,FLA,Florida Marlins
-1999,HOU,HOU,Houston Astros
-1999,KCR,KCR,Kansas City Royals
-1999,LAD,LAD,Los Angeles Dodgers
-1999,MIL,MIL,Milwaukee Brewers
-1999,MIN,MIN,Minnesota Twins
-1999,MON,WSN,Montreal Expos
-1999,NYM,NYM,New York Mets
-1999,NYY,NYY,New York Yankees
-1999,OAK,OAK,Oakland Athletics
-1999,PHI,PHI,Philadelphia Phillies
-1999,PIT,PIT,Pittsburgh Pirates
-1999,SDP,SDP,San Diego Padres
-1999,SEA,SEA,Seattle Mariners
-1999,SFG,SFG,San Francisco Giants
-1999,STL,STL,St. Louis Cardinals
-1999,TBD,TBD,Tampa Bay Devil Rays
-1999,TEX,TEX,Texas Rangers
-1999,TOR,TOR,Toronto Blue Jays
-2000,ANA,ANA,Los Angeles Angels of Anaheim
-2000,ARI,ARI,Arizona Diamondbacks
-2000,ATL,ATL,Atlanta Braves
-2000,BAL,BAL,Baltimore Orioles
-2000,BOS,BOS,Boston Red Sox
-2000,CHC,CHC,Chicago Cubs
-2000,CHW,CHW,Chicago White Sox
-2000,CIN,CIN,Cincinnati Reds
-2000,CLE,CLE,Cleveland Indians
-2000,COL,COL,Colorado Rockies
-2000,DET,DET,Detroit Tigers
-2000,FLA,FLA,Florida Marlins
-2000,HOU,HOU,Houston Astros
-2000,KCR,KCR,Kansas City Royals
-2000,LAD,LAD,Los Angeles Dodgers
-2000,MIL,MIL,Milwaukee Brewers
-2000,MIN,MIN,Minnesota Twins
-2000,MON,WSN,Montreal Expos
-2000,NYM,NYM,New York Mets
-2000,NYY,NYY,New York Yankees
-2000,OAK,OAK,Oakland Athletics
-2000,PHI,PHI,Philadelphia Phillies
-2000,PIT,PIT,Pittsburgh Pirates
-2000,SDP,SDP,San Diego Padres
-2000,SEA,SEA,Seattle Mariners
-2000,SFG,SFG,San Francisco Giants
-2000,STL,STL,St. Louis Cardinals
-2000,TBD,TBD,Tampa Bay Devil Rays
-2000,TEX,TEX,Texas Rangers
-2000,TOR,TOR,Toronto Blue Jays
-2001,ANA,ANA,Los Angeles Angels of Anaheim
-2001,ARI,ARI,Arizona Diamondbacks
-2001,ATL,ATL,Atlanta Braves
-2001,BAL,BAL,Baltimore Orioles
-2001,BOS,BOS,Boston Red Sox
-2001,CHC,CHC,Chicago Cubs
-2001,CHW,CHW,Chicago White Sox
-2001,CIN,CIN,Cincinnati Reds
-2001,CLE,CLE,Cleveland Indians
-2001,COL,COL,Colorado Rockies
-2001,DET,DET,Detroit Tigers
-2001,FLA,FLA,Florida Marlins
-2001,HOU,HOU,Houston Astros
-2001,KCR,KCR,Kansas City Royals
-2001,LAD,LAD,Los Angeles Dodgers
-2001,MIL,MIL,Milwaukee Brewers
-2001,MIN,MIN,Minnesota Twins
-2001,MON,WSN,Montreal Expos
-2001,NYM,NYM,New York Mets
-2001,NYY,NYY,New York Yankees
-2001,OAK,OAK,Oakland Athletics
-2001,PHI,PHI,Philadelphia Phillies
-2001,PIT,PIT,Pittsburgh Pirates
-2001,SDP,SDP,San Diego Padres
-2001,SEA,SEA,Seattle Mariners
-2001,SFG,SFG,San Francisco Giants
-2001,STL,STL,St. Louis Cardinals
-2001,TBD,TBD,Tampa Bay Devil Rays
-2001,TEX,TEX,Texas Rangers
-2001,TOR,TOR,Toronto Blue Jays
-2002,ANA,ANA,Los Angeles Angels of Anaheim
-2002,ARI,ARI,Arizona Diamondbacks
-2002,ATL,ATL,Atlanta Braves
-2002,BAL,BAL,Baltimore Orioles
-2002,BOS,BOS,Boston Red Sox
-2002,CHC,CHC,Chicago Cubs
-2002,CHW,CHW,Chicago White Sox
-2002,CIN,CIN,Cincinnati Reds
-2002,CLE,CLE,Cleveland Indians
-2002,COL,COL,Colorado Rockies
-2002,DET,DET,Detroit Tigers
-2002,FLA,FLA,Florida Marlins
-2002,HOU,HOU,Houston Astros
-2002,KCR,KCR,Kansas City Royals
-2002,LAD,LAD,Los Angeles Dodgers
-2002,MIL,MIL,Milwaukee Brewers
-2002,MIN,MIN,Minnesota Twins
-2002,MON,WSN,Montreal Expos
-2002,NYM,NYM,New York Mets
-2002,NYY,NYY,New York Yankees
-2002,OAK,OAK,Oakland Athletics
-2002,PHI,PHI,Philadelphia Phillies
-2002,PIT,PIT,Pittsburgh Pirates
-2002,SDP,SDP,San Diego Padres
-2002,SEA,SEA,Seattle Mariners
-2002,SFG,SFG,San Francisco Giants
-2002,STL,STL,St. Louis Cardinals
-2002,TBD,TBD,Tampa Bay Devil Rays
-2002,TEX,TEX,Texas Rangers
-2002,TOR,TOR,Toronto Blue Jays
-2003,ANA,ANA,Los Angeles Angels of Anaheim
-2003,ARI,ARI,Arizona Diamondbacks
-2003,ATL,ATL,Atlanta Braves
-2003,BAL,BAL,Baltimore Orioles
-2003,BOS,BOS,Boston Red Sox
-2003,CHC,CHC,Chicago Cubs
-2003,CHW,CHW,Chicago White Sox
-2003,CIN,CIN,Cincinnati Reds
-2003,CLE,CLE,Cleveland Indians
-2003,COL,COL,Colorado Rockies
-2003,DET,DET,Detroit Tigers
-2003,FLA,FLA,Florida Marlins
-2003,HOU,HOU,Houston Astros
-2003,KCR,KCR,Kansas City Royals
-2003,LAD,LAD,Los Angeles Dodgers
-2003,MIL,MIL,Milwaukee Brewers
-2003,MIN,MIN,Minnesota Twins
-2003,MON,WSN,Montreal Expos
-2003,NYM,NYM,New York Mets
-2003,NYY,NYY,New York Yankees
-2003,OAK,OAK,Oakland Athletics
-2003,PHI,PHI,Philadelphia Phillies
-2003,PIT,PIT,Pittsburgh Pirates
-2003,SDP,SDP,San Diego Padres
-2003,SEA,SEA,Seattle Mariners
-2003,SFG,SFG,San Francisco Giants
-2003,STL,STL,St. Louis Cardinals
-2003,TBD,TBD,Tampa Bay Devil Rays
-2003,TEX,TEX,Texas Rangers
-2003,TOR,TOR,Toronto Blue Jays
-2004,ANA,ANA,Los Angeles Angels of Anaheim
-2004,ARI,ARI,Arizona Diamondbacks
-2004,ATL,ATL,Atlanta Braves
-2004,BAL,BAL,Baltimore Orioles
-2004,BOS,BOS,Boston Red Sox
-2004,CHC,CHC,Chicago Cubs
-2004,CHW,CHW,Chicago White Sox
-2004,CIN,CIN,Cincinnati Reds
-2004,CLE,CLE,Cleveland Indians
-2004,COL,COL,Colorado Rockies
-2004,DET,DET,Detroit Tigers
-2004,FLA,FLA,Florida Marlins
-2004,HOU,HOU,Houston Astros
-2004,KCR,KCR,Kansas City Royals
-2004,LAD,LAD,Los Angeles Dodgers
-2004,MIL,MIL,Milwaukee Brewers
-2004,MIN,MIN,Minnesota Twins
-2004,MON,WSN,Montreal Expos
-2004,NYM,NYM,New York Mets
-2004,NYY,NYY,New York Yankees
-2004,OAK,OAK,Oakland Athletics
-2004,PHI,PHI,Philadelphia Phillies
-2004,PIT,PIT,Pittsburgh Pirates
-2004,SDP,SDP,San Diego Padres
-2004,SEA,SEA,Seattle Mariners
-2004,SFG,SFG,San Francisco Giants
-2004,STL,STL,St. Louis Cardinals
-2004,TBD,TBD,Tampa Bay Devil Rays
-2004,TEX,TEX,Texas Rangers
-2004,TOR,TOR,Toronto Blue Jays
-2005,ANA,ANA,Los Angeles Angels of Anaheim
-2005,ARI,ARI,Arizona Diamondbacks
-2005,ATL,ATL,Atlanta Braves
-2005,BAL,BAL,Baltimore Orioles
-2005,BOS,BOS,Boston Red Sox
-2005,CHC,CHC,Chicago Cubs
-2005,CHW,CHW,Chicago White Sox
-2005,CIN,CIN,Cincinnati Reds
-2005,CLE,CLE,Cleveland Indians
-2005,COL,COL,Colorado Rockies
-2005,DET,DET,Detroit Tigers
-2005,FLA,FLA,Florida Marlins
-2005,HOU,HOU,Houston Astros
-2005,KCR,KCR,Kansas City Royals
-2005,LAD,LAD,Los Angeles Dodgers
-2005,MIL,MIL,Milwaukee Brewers
-2005,MIN,MIN,Minnesota Twins
-2005,NYM,NYM,New York Mets
-2005,NYY,NYY,New York Yankees
-2005,OAK,OAK,Oakland Athletics
-2005,PHI,PHI,Philadelphia Phillies
-2005,PIT,PIT,Pittsburgh Pirates
-2005,SDP,SDP,San Diego Padres
-2005,SEA,SEA,Seattle Mariners
-2005,SFG,SFG,San Francisco Giants
-2005,STL,STL,St. Louis Cardinals
-2005,TBD,TBD,Tampa Bay Devil Rays
-2005,TEX,TEX,Texas Rangers
-2005,TOR,TOR,Toronto Blue Jays
-2005,WSN,WSN,Washington Nationals
-2006,ANA,ANA,Los Angeles Angels of Anaheim
-2006,ARI,ARI,Arizona Diamondbacks
-2006,ATL,ATL,Atlanta Braves
-2006,BAL,BAL,Baltimore Orioles
-2006,BOS,BOS,Boston Red Sox
-2006,CHC,CHC,Chicago Cubs
-2006,CHW,CHW,Chicago White Sox
-2006,CIN,CIN,Cincinnati Reds
-2006,CLE,CLE,Cleveland Indians
-2006,COL,COL,Colorado Rockies
-2006,DET,DET,Detroit Tigers
-2006,FLA,FLA,Florida Marlins
-2006,HOU,HOU,Houston Astros
-2006,KCR,KCR,Kansas City Royals
-2006,LAD,LAD,Los Angeles Dodgers
-2006,MIL,MIL,Milwaukee Brewers
-2006,MIN,MIN,Minnesota Twins
-2006,NYM,NYM,New York Mets
-2006,NYY,NYY,New York Yankees
-2006,OAK,OAK,Oakland Athletics
-2006,PHI,PHI,Philadelphia Phillies
-2006,PIT,PIT,Pittsburgh Pirates
-2006,SDP,SDP,San Diego Padres
-2006,SEA,SEA,Seattle Mariners
-2006,SFG,SFG,San Francisco Giants
-2006,STL,STL,St. Louis Cardinals
-2006,TBD,TBD,Tampa Bay Devil Rays
-2006,TEX,TEX,Texas Rangers
-2006,TOR,TOR,Toronto Blue Jays
-2006,WSN,WSN,Washington Nationals
-2007,ANA,ANA,Los Angeles Angels of Anaheim
-2007,ARI,ARI,Arizona Diamondbacks
-2007,ATL,ATL,Atlanta Braves
-2007,BAL,BAL,Baltimore Orioles
-2007,BOS,BOS,Boston Red Sox
-2007,CHC,CHC,Chicago Cubs
-2007,CHW,CHW,Chicago White Sox
-2007,CIN,CIN,Cincinnati Reds
-2007,CLE,CLE,Cleveland Indians
-2007,COL,COL,Colorado Rockies
-2007,DET,DET,Detroit Tigers
-2007,FLA,FLA,Florida Marlins
-2007,HOU,HOU,Houston Astros
-2007,KCR,KCR,Kansas City Royals
-2007,LAD,LAD,Los Angeles Dodgers
-2007,MIL,MIL,Milwaukee Brewers
-2007,MIN,MIN,Minnesota Twins
-2007,NYM,NYM,New York Mets
-2007,NYY,NYY,New York Yankees
-2007,OAK,OAK,Oakland Athletics
-2007,PHI,PHI,Philadelphia Phillies
-2007,PIT,PIT,Pittsburgh Pirates
-2007,SDP,SDP,San Diego Padres
-2007,SEA,SEA,Seattle Mariners
-2007,SFG,SFG,San Francisco Giants
-2007,STL,STL,St. Louis Cardinals
-2007,TBD,TBD,Tampa Bay Devil Rays
-2007,TEX,TEX,Texas Rangers
-2007,TOR,TOR,Toronto Blue Jays
-2007,WSN,WSN,Washington Nationals
-2008,ANA,ANA,Los Angeles Angels of Anaheim
-2008,ARI,ARI,Arizona Diamondbacks
-2008,ATL,ATL,Atlanta Braves
-2008,BAL,BAL,Baltimore Orioles
-2008,BOS,BOS,Boston Red Sox
-2008,CHC,CHC,Chicago Cubs
-2008,CHW,CHW,Chicago White Sox
-2008,CIN,CIN,Cincinnati Reds
-2008,CLE,CLE,Cleveland Indians
-2008,COL,COL,Colorado Rockies
-2008,DET,DET,Detroit Tigers
-2008,FLA,FLA,Florida Marlins
-2008,HOU,HOU,Houston Astros
-2008,KCR,KCR,Kansas City Royals
-2008,LAD,LAD,Los Angeles Dodgers
-2008,MIL,MIL,Milwaukee Brewers
-2008,MIN,MIN,Minnesota Twins
-2008,NYM,NYM,New York Mets
-2008,NYY,NYY,New York Yankees
-2008,OAK,OAK,Oakland Athletics
-2008,PHI,PHI,Philadelphia Phillies
-2008,PIT,PIT,Pittsburgh Pirates
-2008,SDP,SDP,San Diego Padres
-2008,SEA,SEA,Seattle Mariners
-2008,SFG,SFG,San Francisco Giants
-2008,STL,STL,St. Louis Cardinals
-2008,TBR,TBD,Tampa Bay Rays
-2008,TEX,TEX,Texas Rangers
-2008,TOR,TOR,Toronto Blue Jays
-2008,WSN,WSN,Washington Nationals
-2009,ANA,ANA,Los Angeles Angels of Anaheim
-2009,ARI,ARI,Arizona Diamondbacks
-2009,ATL,ATL,Atlanta Braves
-2009,BAL,BAL,Baltimore Orioles
-2009,BOS,BOS,Boston Red Sox
-2009,CHC,CHC,Chicago Cubs
-2009,CHW,CHW,Chicago White Sox
-2009,CIN,CIN,Cincinnati Reds
-2009,CLE,CLE,Cleveland Indians
-2009,COL,COL,Colorado Rockies
-2009,DET,DET,Detroit Tigers
-2009,FLA,FLA,Florida Marlins
-2009,HOU,HOU,Houston Astros
-2009,KCR,KCR,Kansas City Royals
-2009,LAD,LAD,Los Angeles Dodgers
-2009,MIL,MIL,Milwaukee Brewers
-2009,MIN,MIN,Minnesota Twins
-2009,NYM,NYM,New York Mets
-2009,NYY,NYY,New York Yankees
-2009,OAK,OAK,Oakland Athletics
-2009,PHI,PHI,Philadelphia Phillies
-2009,PIT,PIT,Pittsburgh Pirates
-2009,SDP,SDP,San Diego Padres
-2009,SEA,SEA,Seattle Mariners
-2009,SFG,SFG,San Francisco Giants
-2009,STL,STL,St. Louis Cardinals
-2009,TBR,TBD,Tampa Bay Rays
-2009,TEX,TEX,Texas Rangers
-2009,TOR,TOR,Toronto Blue Jays
-2009,WSN,WSN,Washington Nationals
-2010,ANA,ANA,Los Angeles Angels of Anaheim
-2010,ARI,ARI,Arizona Diamondbacks
-2010,ATL,ATL,Atlanta Braves
-2010,BAL,BAL,Baltimore Orioles
-2010,BOS,BOS,Boston Red Sox
-2010,CHC,CHC,Chicago Cubs
-2010,CHW,CHW,Chicago White Sox
-2010,CIN,CIN,Cincinnati Reds
-2010,CLE,CLE,Cleveland Indians
-2010,COL,COL,Colorado Rockies
-2010,DET,DET,Detroit Tigers
-2010,FLA,FLA,Florida Marlins
-2010,HOU,HOU,Houston Astros
-2010,KCR,KCR,Kansas City Royals
-2010,LAD,LAD,Los Angeles Dodgers
-2010,MIL,MIL,Milwaukee Brewers
-2010,MIN,MIN,Minnesota Twins
-2010,NYM,NYM,New York Mets
-2010,NYY,NYY,New York Yankees
-2010,OAK,OAK,Oakland Athletics
-2010,PHI,PHI,Philadelphia Phillies
-2010,PIT,PIT,Pittsburgh Pirates
-2010,SDP,SDP,San Diego Padres
-2010,SEA,SEA,Seattle Mariners
-2010,SFG,SFG,San Francisco Giants
-2010,STL,STL,St. Louis Cardinals
-2010,TBR,TBD,Tampa Bay Rays
-2010,TEX,TEX,Texas Rangers
-2010,TOR,TOR,Toronto Blue Jays
-2010,WSN,WSN,Washington Nationals
-2011,ANA,ANA,Los Angeles Angels of Anaheim
-2011,ARI,ARI,Arizona Diamondbacks
-2011,ATL,ATL,Atlanta Braves
-2011,BAL,BAL,Baltimore Orioles
-2011,BOS,BOS,Boston Red Sox
-2011,CHC,CHC,Chicago Cubs
-2011,CHW,CHW,Chicago White Sox
-2011,CIN,CIN,Cincinnati Reds
-2011,CLE,CLE,Cleveland Indians
-2011,COL,COL,Colorado Rockies
-2011,DET,DET,Detroit Tigers
-2011,FLA,FLA,Florida Marlins
-2011,HOU,HOU,Houston Astros
-2011,KCR,KCR,Kansas City Royals
-2011,LAD,LAD,Los Angeles Dodgers
-2011,MIL,MIL,Milwaukee Brewers
-2011,MIN,MIN,Minnesota Twins
-2011,NYM,NYM,New York Mets
-2011,NYY,NYY,New York Yankees
-2011,OAK,OAK,Oakland Athletics
-2011,PHI,PHI,Philadelphia Phillies
-2011,PIT,PIT,Pittsburgh Pirates
-2011,SDP,SDP,San Diego Padres
-2011,SEA,SEA,Seattle Mariners
-2011,SFG,SFG,San Francisco Giants
-2011,STL,STL,St. Louis Cardinals
-2011,TBR,TBD,Tampa Bay Rays
-2011,TEX,TEX,Texas Rangers
-2011,TOR,TOR,Toronto Blue Jays
-2011,WSN,WSN,Washington Nationals
-2012,ANA,ANA,Los Angeles Angels of Anaheim
-2012,ARI,ARI,Arizona Diamondbacks
-2012,ATL,ATL,Atlanta Braves
-2012,BAL,BAL,Baltimore Orioles
-2012,BOS,BOS,Boston Red Sox
-2012,CHC,CHC,Chicago Cubs
-2012,CHW,CHW,Chicago White Sox
-2012,CIN,CIN,Cincinnati Reds
-2012,CLE,CLE,Cleveland Indians
-2012,COL,COL,Colorado Rockies
-2012,DET,DET,Detroit Tigers
-2012,HOU,HOU,Houston Astros
-2012,KCR,KCR,Kansas City Royals
-2012,LAD,LAD,Los Angeles Dodgers
-2012,MIA,FLA,Miami Marlins
-2012,MIL,MIL,Milwaukee Brewers
-2012,MIN,MIN,Minnesota Twins
-2012,NYM,NYM,New York Mets
-2012,NYY,NYY,New York Yankees
-2012,OAK,OAK,Oakland Athletics
-2012,PHI,PHI,Philadelphia Phillies
-2012,PIT,PIT,Pittsburgh Pirates
-2012,SDP,SDP,San Diego Padres
-2012,SEA,SEA,Seattle Mariners
-2012,SFG,SFG,San Francisco Giants
-2012,STL,STL,St. Louis Cardinals
-2012,TBR,TBD,Tampa Bay Rays
-2012,TEX,TEX,Texas Rangers
-2012,TOR,TOR,Toronto Blue Jays
-2012,WSN,WSN,Washington Nationals
-2013,ANA,ANA,Los Angeles Angels of Anaheim
-2013,ARI,ARI,Arizona Diamondbacks
-2013,ATL,ATL,Atlanta Braves
-2013,BAL,BAL,Baltimore Orioles
-2013,BOS,BOS,Boston Red Sox
-2013,CHC,CHC,Chicago Cubs
-2013,CHW,CHW,Chicago White Sox
-2013,CIN,CIN,Cincinnati Reds
-2013,CLE,CLE,Cleveland Indians
-2013,COL,COL,Colorado Rockies
-2013,DET,DET,Detroit Tigers
-2013,HOU,HOU,Houston Astros
-2013,KCR,KCR,Kansas City Royals
-2013,LAD,LAD,Los Angeles Dodgers
-2013,MIA,FLA,Miami Marlins
-2013,MIL,MIL,Milwaukee Brewers
-2013,MIN,MIN,Minnesota Twins
-2013,NYM,NYM,New York Mets
-2013,NYY,NYY,New York Yankees
-2013,OAK,OAK,Oakland Athletics
-2013,PHI,PHI,Philadelphia Phillies
-2013,PIT,PIT,Pittsburgh Pirates
-2013,SDP,SDP,San Diego Padres
-2013,SEA,SEA,Seattle Mariners
-2013,SFG,SFG,San Francisco Giants
-2013,STL,STL,St. Louis Cardinals
-2013,TBR,TBD,Tampa Bay Rays
-2013,TEX,TEX,Texas Rangers
-2013,TOR,TOR,Toronto Blue Jays
-2013,WSN,WSN,Washington Nationals
-2014,ANA,ANA,Los Angeles Angels of Anaheim
-2014,ARI,ARI,Arizona Diamondbacks
-2014,ATL,ATL,Atlanta Braves
-2014,BAL,BAL,Baltimore Orioles
-2014,BOS,BOS,Boston Red Sox
-2014,CHC,CHC,Chicago Cubs
-2014,CHW,CHW,Chicago White Sox
-2014,CIN,CIN,Cincinnati Reds
-2014,CLE,CLE,Cleveland Indians
-2014,COL,COL,Colorado Rockies
-2014,DET,DET,Detroit Tigers
-2014,HOU,HOU,Houston Astros
-2014,KCR,KCR,Kansas City Royals
-2014,LAD,LAD,Los Angeles Dodgers
-2014,MIA,FLA,Miami Marlins
-2014,MIL,MIL,Milwaukee Brewers
-2014,MIN,MIN,Minnesota Twins
-2014,NYM,NYM,New York Mets
-2014,NYY,NYY,New York Yankees
-2014,OAK,OAK,Oakland Athletics
-2014,PHI,PHI,Philadelphia Phillies
-2014,PIT,PIT,Pittsburgh Pirates
-2014,SDP,SDP,San Diego Padres
-2014,SEA,SEA,Seattle Mariners
-2014,SFG,SFG,San Francisco Giants
-2014,STL,STL,St. Louis Cardinals
-2014,TBR,TBD,Tampa Bay Rays
-2014,TEX,TEX,Texas Rangers
-2014,TOR,TOR,Toronto Blue Jays
-2014,WSN,WSN,Washington Nationals
-2015,ANA,ANA,Los Angeles Angels of Anaheim
-2015,ARI,ARI,Arizona Diamondbacks
-2015,ATL,ATL,Atlanta Braves
-2015,BAL,BAL,Baltimore Orioles
-2015,BOS,BOS,Boston Red Sox
-2015,CHC,CHC,Chicago Cubs
-2015,CHW,CHW,Chicago White Sox
-2015,CIN,CIN,Cincinnati Reds
-2015,CLE,CLE,Cleveland Indians
-2015,COL,COL,Colorado Rockies
-2015,DET,DET,Detroit Tigers
-2015,HOU,HOU,Houston Astros
-2015,KCR,KCR,Kansas City Royals
-2015,LAD,LAD,Los Angeles Dodgers
-2015,MIA,FLA,Miami Marlins
-2015,MIL,MIL,Milwaukee Brewers
-2015,MIN,MIN,Minnesota Twins
-2015,NYM,NYM,New York Mets
-2015,NYY,NYY,New York Yankees
-2015,OAK,OAK,Oakland Athletics
-2015,PHI,PHI,Philadelphia Phillies
-2015,PIT,PIT,Pittsburgh Pirates
-2015,SDP,SDP,San Diego Padres
-2015,SEA,SEA,Seattle Mariners
-2015,SFG,SFG,San Francisco Giants
-2015,STL,STL,St. Louis Cardinals
-2015,TBR,TBD,Tampa Bay Rays
-2015,TEX,TEX,Texas Rangers
-2015,TOR,TOR,Toronto Blue Jays
-2015,WSN,WSN,Washington Nationals
-2016,ANA,ANA,Los Angeles Angels of Anaheim
-2016,ARI,ARI,Arizona Diamondbacks
-2016,ATL,ATL,Atlanta Braves
-2016,BAL,BAL,Baltimore Orioles
-2016,BOS,BOS,Boston Red Sox
-2016,CHC,CHC,Chicago Cubs
-2016,CHW,CHW,Chicago White Sox
-2016,CIN,CIN,Cincinnati Reds
-2016,CLE,CLE,Cleveland Indians
-2016,COL,COL,Colorado Rockies
-2016,DET,DET,Detroit Tigers
-2016,HOU,HOU,Houston Astros
-2016,KCR,KCR,Kansas City Royals
-2016,LAD,LAD,Los Angeles Dodgers
-2016,MIA,FLA,Miami Marlins
-2016,MIL,MIL,Milwaukee Brewers
-2016,MIN,MIN,Minnesota Twins
-2016,NYM,NYM,New York Mets
-2016,NYY,NYY,New York Yankees
-2016,OAK,OAK,Oakland Athletics
-2016,PHI,PHI,Philadelphia Phillies
-2016,PIT,PIT,Pittsburgh Pirates
-2016,SDP,SDP,San Diego Padres
-2016,SEA,SEA,Seattle Mariners
-2016,SFG,SFG,San Francisco Giants
-2016,STL,STL,St. Louis Cardinals
-2016,TBR,TBD,Tampa Bay Rays
-2016,TEX,TEX,Texas Rangers
-2016,TOR,TOR,Toronto Blue Jays
-2016,WSN,WSN,Washington Nationals
-2017,ANA,ANA,Los Angeles Angels of Anaheim
-2017,ARI,ARI,Arizona Diamondbacks
-2017,ATL,ATL,Atlanta Braves
-2017,BAL,BAL,Baltimore Orioles
-2017,BOS,BOS,Boston Red Sox
-2017,CHC,CHC,Chicago Cubs
-2017,CHW,CHW,Chicago White Sox
-2017,CIN,CIN,Cincinnati Reds
-2017,CLE,CLE,Cleveland Indians
-2017,COL,COL,Colorado Rockies
-2017,DET,DET,Detroit Tigers
-2017,HOU,HOU,Houston Astros
-2017,KCR,KCR,Kansas City Royals
-2017,LAD,LAD,Los Angeles Dodgers
-2017,MIA,FLA,Miami Marlins
-2017,MIL,MIL,Milwaukee Brewers
-2017,MIN,MIN,Minnesota Twins
-2017,NYM,NYM,New York Mets
-2017,NYY,NYY,New York Yankees
-2017,OAK,OAK,Oakland Athletics
-2017,PHI,PHI,Philadelphia Phillies
-2017,PIT,PIT,Pittsburgh Pirates
-2017,SDP,SDP,San Diego Padres
-2017,SEA,SEA,Seattle Mariners
-2017,SFG,SFG,San Francisco Giants
-2017,STL,STL,St. Louis Cardinals
-2017,TBR,TBD,Tampa Bay Rays
-2017,TEX,TEX,Texas Rangers
-2017,TOR,TOR,Toronto Blue Jays
-2017,WSN,WSN,Washington Nationals
-2018,ANA,ANA,Los Angeles Angels of Anaheim
-2018,ARI,ARI,Arizona Diamondbacks
-2018,ATL,ATL,Atlanta Braves
-2018,BAL,BAL,Baltimore Orioles
-2018,BOS,BOS,Boston Red Sox
-2018,CHC,CHC,Chicago Cubs
-2018,CHW,CHW,Chicago White Sox
-2018,CIN,CIN,Cincinnati Reds
-2018,CLE,CLE,Cleveland Indians
-2018,COL,COL,Colorado Rockies
-2018,DET,DET,Detroit Tigers
-2018,HOU,HOU,Houston Astros
-2018,KCR,KCR,Kansas City Royals
-2018,LAD,LAD,Los Angeles Dodgers
-2018,MIA,FLA,Miami Marlins
-2018,MIL,MIL,Milwaukee Brewers
-2018,MIN,MIN,Minnesota Twins
-2018,NYM,NYM,New York Mets
-2018,NYY,NYY,New York Yankees
-2018,OAK,OAK,Oakland Athletics
-2018,PHI,PHI,Philadelphia Phillies
-2018,PIT,PIT,Pittsburgh Pirates
-2018,SDP,SDP,San Diego Padres
-2018,SEA,SEA,Seattle Mariners
-2018,SFG,SFG,San Francisco Giants
-2018,STL,STL,St. Louis Cardinals
-2018,TBR,TBD,Tampa Bay Rays
-2018,TEX,TEX,Texas Rangers
-2018,TOR,TOR,Toronto Blue Jays
-2018,WSN,WSN,Washington Nationals
+year,team,name
+1964,BAL,Baltimore Orioles
+1964,BOS,Boston Red Sox
+1964,CHC,Chicago Cubs
+1964,CHW,Chicago White Sox
+1964,CIN,Cincinnati Reds
+1964,CLE,Cleveland Indians
+1964,DET,Detroit Tigers
+1964,HOU,Houston Colt .45's
+1964,KCA,Kansas City Athletics
+1964,LAA,Los Angeles Angels
+1964,LAD,Los Angeles Dodgers
+1964,MIN,Minnesota Twins
+1964,MLN,Milwaukee Braves
+1964,NYM,New York Mets
+1964,NYY,New York Yankees
+1964,PHI,Philadelphia Phillies
+1964,PIT,Pittsburgh Pirates
+1964,SFG,San Francisco Giants
+1964,STL,St. Louis Cardinals
+1964,WSA,Washington Senators
+1965,BAL,Baltimore Orioles
+1965,BOS,Boston Red Sox
+1965,CAL,California Angels
+1965,CHC,Chicago Cubs
+1965,CHW,Chicago White Sox
+1965,CIN,Cincinnati Reds
+1965,CLE,Cleveland Indians
+1965,DET,Detroit Tigers
+1965,HOU,Houston Astros
+1965,KCA,Kansas City Athletics
+1965,LAD,Los Angeles Dodgers
+1965,MIN,Minnesota Twins
+1965,MLN,Milwaukee Braves
+1965,NYM,New York Mets
+1965,NYY,New York Yankees
+1965,PHI,Philadelphia Phillies
+1965,PIT,Pittsburgh Pirates
+1965,SFG,San Francisco Giants
+1965,STL,St. Louis Cardinals
+1965,WSA,Washington Senators
+1966,ATL,Atlanta Braves
+1966,BAL,Baltimore Orioles
+1966,BOS,Boston Red Sox
+1966,CAL,California Angels
+1966,CHC,Chicago Cubs
+1966,CHW,Chicago White Sox
+1966,CIN,Cincinnati Reds
+1966,CLE,Cleveland Indians
+1966,DET,Detroit Tigers
+1966,HOU,Houston Astros
+1966,KCA,Kansas City Athletics
+1966,LAD,Los Angeles Dodgers
+1966,MIN,Minnesota Twins
+1966,NYM,New York Mets
+1966,NYY,New York Yankees
+1966,PHI,Philadelphia Phillies
+1966,PIT,Pittsburgh Pirates
+1966,SFG,San Francisco Giants
+1966,STL,St. Louis Cardinals
+1966,WSA,Washington Senators
+1967,ATL,Atlanta Braves
+1967,BAL,Baltimore Orioles
+1967,BOS,Boston Red Sox
+1967,CAL,California Angels
+1967,CHC,Chicago Cubs
+1967,CHW,Chicago White Sox
+1967,CIN,Cincinnati Reds
+1967,CLE,Cleveland Indians
+1967,DET,Detroit Tigers
+1967,HOU,Houston Astros
+1967,KCA,Kansas City Athletics
+1967,LAD,Los Angeles Dodgers
+1967,MIN,Minnesota Twins
+1967,NYM,New York Mets
+1967,NYY,New York Yankees
+1967,PHI,Philadelphia Phillies
+1967,PIT,Pittsburgh Pirates
+1967,SFG,San Francisco Giants
+1967,STL,St. Louis Cardinals
+1967,WSA,Washington Senators
+1968,ATL,Atlanta Braves
+1968,BAL,Baltimore Orioles
+1968,BOS,Boston Red Sox
+1968,CAL,California Angels
+1968,CHC,Chicago Cubs
+1968,CHW,Chicago White Sox
+1968,CIN,Cincinnati Reds
+1968,CLE,Cleveland Indians
+1968,DET,Detroit Tigers
+1968,HOU,Houston Astros
+1968,LAD,Los Angeles Dodgers
+1968,MIN,Minnesota Twins
+1968,NYM,New York Mets
+1968,NYY,New York Yankees
+1968,OAK,Oakland Athletics
+1968,PHI,Philadelphia Phillies
+1968,PIT,Pittsburgh Pirates
+1968,SFG,San Francisco Giants
+1968,STL,St. Louis Cardinals
+1968,WSA,Washington Senators
+1969,ATL,Atlanta Braves
+1969,BAL,Baltimore Orioles
+1969,BOS,Boston Red Sox
+1969,CAL,California Angels
+1969,CHC,Chicago Cubs
+1969,CHW,Chicago White Sox
+1969,CIN,Cincinnati Reds
+1969,CLE,Cleveland Indians
+1969,DET,Detroit Tigers
+1969,HOU,Houston Astros
+1969,KCR,Kansas City Royals
+1969,LAD,Los Angeles Dodgers
+1969,MIN,Minnesota Twins
+1969,MON,Montreal Expos
+1969,NYM,New York Mets
+1969,NYY,New York Yankees
+1969,OAK,Oakland Athletics
+1969,PHI,Philadelphia Phillies
+1969,PIT,Pittsburgh Pirates
+1969,SDP,San Diego Padres
+1969,SEP,Seattle Pilots
+1969,SFG,San Francisco Giants
+1969,STL,St. Louis Cardinals
+1969,WSA,Washington Senators
+1970,ATL,Atlanta Braves
+1970,BAL,Baltimore Orioles
+1970,BOS,Boston Red Sox
+1970,CAL,California Angels
+1970,CHC,Chicago Cubs
+1970,CHW,Chicago White Sox
+1970,CIN,Cincinnati Reds
+1970,CLE,Cleveland Indians
+1970,DET,Detroit Tigers
+1970,HOU,Houston Astros
+1970,KCR,Kansas City Royals
+1970,LAD,Los Angeles Dodgers
+1970,MIL,Milwaukee Brewers
+1970,MIN,Minnesota Twins
+1970,MON,Montreal Expos
+1970,NYM,New York Mets
+1970,NYY,New York Yankees
+1970,OAK,Oakland Athletics
+1970,PHI,Philadelphia Phillies
+1970,PIT,Pittsburgh Pirates
+1970,SDP,San Diego Padres
+1970,SFG,San Francisco Giants
+1970,STL,St. Louis Cardinals
+1970,WSA,Washington Senators
+1971,ATL,Atlanta Braves
+1971,BAL,Baltimore Orioles
+1971,BOS,Boston Red Sox
+1971,CAL,California Angels
+1971,CHC,Chicago Cubs
+1971,CHW,Chicago White Sox
+1971,CIN,Cincinnati Reds
+1971,CLE,Cleveland Indians
+1971,DET,Detroit Tigers
+1971,HOU,Houston Astros
+1971,KCR,Kansas City Royals
+1971,LAD,Los Angeles Dodgers
+1971,MIL,Milwaukee Brewers
+1971,MIN,Minnesota Twins
+1971,MON,Montreal Expos
+1971,NYM,New York Mets
+1971,NYY,New York Yankees
+1971,OAK,Oakland Athletics
+1971,PHI,Philadelphia Phillies
+1971,PIT,Pittsburgh Pirates
+1971,SDP,San Diego Padres
+1971,SFG,San Francisco Giants
+1971,STL,St. Louis Cardinals
+1971,WSA,Washington Senators
+1972,ATL,Atlanta Braves
+1972,BAL,Baltimore Orioles
+1972,BOS,Boston Red Sox
+1972,CAL,California Angels
+1972,CHC,Chicago Cubs
+1972,CHW,Chicago White Sox
+1972,CIN,Cincinnati Reds
+1972,CLE,Cleveland Indians
+1972,DET,Detroit Tigers
+1972,HOU,Houston Astros
+1972,KCR,Kansas City Royals
+1972,LAD,Los Angeles Dodgers
+1972,MIL,Milwaukee Brewers
+1972,MIN,Minnesota Twins
+1972,MON,Montreal Expos
+1972,NYM,New York Mets
+1972,NYY,New York Yankees
+1972,OAK,Oakland Athletics
+1972,PHI,Philadelphia Phillies
+1972,PIT,Pittsburgh Pirates
+1972,SDP,San Diego Padres
+1972,SFG,San Francisco Giants
+1972,STL,St. Louis Cardinals
+1972,TEX,Texas Rangers
+1973,ATL,Atlanta Braves
+1973,BAL,Baltimore Orioles
+1973,BOS,Boston Red Sox
+1973,CAL,California Angels
+1973,CHC,Chicago Cubs
+1973,CHW,Chicago White Sox
+1973,CIN,Cincinnati Reds
+1973,CLE,Cleveland Indians
+1973,DET,Detroit Tigers
+1973,HOU,Houston Astros
+1973,KCR,Kansas City Royals
+1973,LAD,Los Angeles Dodgers
+1973,MIL,Milwaukee Brewers
+1973,MIN,Minnesota Twins
+1973,MON,Montreal Expos
+1973,NYM,New York Mets
+1973,NYY,New York Yankees
+1973,OAK,Oakland Athletics
+1973,PHI,Philadelphia Phillies
+1973,PIT,Pittsburgh Pirates
+1973,SDP,San Diego Padres
+1973,SFG,San Francisco Giants
+1973,STL,St. Louis Cardinals
+1973,TEX,Texas Rangers
+1974,ATL,Atlanta Braves
+1974,BAL,Baltimore Orioles
+1974,BOS,Boston Red Sox
+1974,CAL,California Angels
+1974,CHC,Chicago Cubs
+1974,CHW,Chicago White Sox
+1974,CIN,Cincinnati Reds
+1974,CLE,Cleveland Indians
+1974,DET,Detroit Tigers
+1974,HOU,Houston Astros
+1974,KCR,Kansas City Royals
+1974,LAD,Los Angeles Dodgers
+1974,MIL,Milwaukee Brewers
+1974,MIN,Minnesota Twins
+1974,MON,Montreal Expos
+1974,NYM,New York Mets
+1974,NYY,New York Yankees
+1974,OAK,Oakland Athletics
+1974,PHI,Philadelphia Phillies
+1974,PIT,Pittsburgh Pirates
+1974,SDP,San Diego Padres
+1974,SFG,San Francisco Giants
+1974,STL,St. Louis Cardinals
+1974,TEX,Texas Rangers
+1975,ATL,Atlanta Braves
+1975,BAL,Baltimore Orioles
+1975,BOS,Boston Red Sox
+1975,CAL,California Angels
+1975,CHC,Chicago Cubs
+1975,CHW,Chicago White Sox
+1975,CIN,Cincinnati Reds
+1975,CLE,Cleveland Indians
+1975,DET,Detroit Tigers
+1975,HOU,Houston Astros
+1975,KCR,Kansas City Royals
+1975,LAD,Los Angeles Dodgers
+1975,MIL,Milwaukee Brewers
+1975,MIN,Minnesota Twins
+1975,MON,Montreal Expos
+1975,NYM,New York Mets
+1975,NYY,New York Yankees
+1975,OAK,Oakland Athletics
+1975,PHI,Philadelphia Phillies
+1975,PIT,Pittsburgh Pirates
+1975,SDP,San Diego Padres
+1975,SFG,San Francisco Giants
+1975,STL,St. Louis Cardinals
+1975,TEX,Texas Rangers
+1976,ATL,Atlanta Braves
+1976,BAL,Baltimore Orioles
+1976,BOS,Boston Red Sox
+1976,CAL,California Angels
+1976,CHC,Chicago Cubs
+1976,CHW,Chicago White Sox
+1976,CIN,Cincinnati Reds
+1976,CLE,Cleveland Indians
+1976,DET,Detroit Tigers
+1976,HOU,Houston Astros
+1976,KCR,Kansas City Royals
+1976,LAD,Los Angeles Dodgers
+1976,MIL,Milwaukee Brewers
+1976,MIN,Minnesota Twins
+1976,MON,Montreal Expos
+1976,NYM,New York Mets
+1976,NYY,New York Yankees
+1976,OAK,Oakland Athletics
+1976,PHI,Philadelphia Phillies
+1976,PIT,Pittsburgh Pirates
+1976,SDP,San Diego Padres
+1976,SFG,San Francisco Giants
+1976,STL,St. Louis Cardinals
+1976,TEX,Texas Rangers
+1977,ATL,Atlanta Braves
+1977,BAL,Baltimore Orioles
+1977,BOS,Boston Red Sox
+1977,CAL,California Angels
+1977,CHC,Chicago Cubs
+1977,CHW,Chicago White Sox
+1977,CIN,Cincinnati Reds
+1977,CLE,Cleveland Indians
+1977,DET,Detroit Tigers
+1977,HOU,Houston Astros
+1977,KCR,Kansas City Royals
+1977,LAD,Los Angeles Dodgers
+1977,MIL,Milwaukee Brewers
+1977,MIN,Minnesota Twins
+1977,MON,Montreal Expos
+1977,NYM,New York Mets
+1977,NYY,New York Yankees
+1977,OAK,Oakland Athletics
+1977,PHI,Philadelphia Phillies
+1977,PIT,Pittsburgh Pirates
+1977,SDP,San Diego Padres
+1977,SEA,Seattle Mariners
+1977,SFG,San Francisco Giants
+1977,STL,St. Louis Cardinals
+1977,TEX,Texas Rangers
+1977,TOR,Toronto Blue Jays
+1978,ATL,Atlanta Braves
+1978,BAL,Baltimore Orioles
+1978,BOS,Boston Red Sox
+1978,CAL,California Angels
+1978,CHC,Chicago Cubs
+1978,CHW,Chicago White Sox
+1978,CIN,Cincinnati Reds
+1978,CLE,Cleveland Indians
+1978,DET,Detroit Tigers
+1978,HOU,Houston Astros
+1978,KCR,Kansas City Royals
+1978,LAD,Los Angeles Dodgers
+1978,MIL,Milwaukee Brewers
+1978,MIN,Minnesota Twins
+1978,MON,Montreal Expos
+1978,NYM,New York Mets
+1978,NYY,New York Yankees
+1978,OAK,Oakland Athletics
+1978,PHI,Philadelphia Phillies
+1978,PIT,Pittsburgh Pirates
+1978,SDP,San Diego Padres
+1978,SEA,Seattle Mariners
+1978,SFG,San Francisco Giants
+1978,STL,St. Louis Cardinals
+1978,TEX,Texas Rangers
+1978,TOR,Toronto Blue Jays
+1979,ATL,Atlanta Braves
+1979,BAL,Baltimore Orioles
+1979,BOS,Boston Red Sox
+1979,CAL,California Angels
+1979,CHC,Chicago Cubs
+1979,CHW,Chicago White Sox
+1979,CIN,Cincinnati Reds
+1979,CLE,Cleveland Indians
+1979,DET,Detroit Tigers
+1979,HOU,Houston Astros
+1979,KCR,Kansas City Royals
+1979,LAD,Los Angeles Dodgers
+1979,MIL,Milwaukee Brewers
+1979,MIN,Minnesota Twins
+1979,MON,Montreal Expos
+1979,NYM,New York Mets
+1979,NYY,New York Yankees
+1979,OAK,Oakland Athletics
+1979,PHI,Philadelphia Phillies
+1979,PIT,Pittsburgh Pirates
+1979,SDP,San Diego Padres
+1979,SEA,Seattle Mariners
+1979,SFG,San Francisco Giants
+1979,STL,St. Louis Cardinals
+1979,TEX,Texas Rangers
+1979,TOR,Toronto Blue Jays
+1980,ATL,Atlanta Braves
+1980,BAL,Baltimore Orioles
+1980,BOS,Boston Red Sox
+1980,CAL,California Angels
+1980,CHC,Chicago Cubs
+1980,CHW,Chicago White Sox
+1980,CIN,Cincinnati Reds
+1980,CLE,Cleveland Indians
+1980,DET,Detroit Tigers
+1980,HOU,Houston Astros
+1980,KCR,Kansas City Royals
+1980,LAD,Los Angeles Dodgers
+1980,MIL,Milwaukee Brewers
+1980,MIN,Minnesota Twins
+1980,MON,Montreal Expos
+1980,NYM,New York Mets
+1980,NYY,New York Yankees
+1980,OAK,Oakland Athletics
+1980,PHI,Philadelphia Phillies
+1980,PIT,Pittsburgh Pirates
+1980,SDP,San Diego Padres
+1980,SEA,Seattle Mariners
+1980,SFG,San Francisco Giants
+1980,STL,St. Louis Cardinals
+1980,TEX,Texas Rangers
+1980,TOR,Toronto Blue Jays
+1981,ATL,Atlanta Braves
+1981,BAL,Baltimore Orioles
+1981,BOS,Boston Red Sox
+1981,CAL,California Angels
+1981,CHC,Chicago Cubs
+1981,CHW,Chicago White Sox
+1981,CIN,Cincinnati Reds
+1981,CLE,Cleveland Indians
+1981,DET,Detroit Tigers
+1981,HOU,Houston Astros
+1981,KCR,Kansas City Royals
+1981,LAD,Los Angeles Dodgers
+1981,MIL,Milwaukee Brewers
+1981,MIN,Minnesota Twins
+1981,MON,Montreal Expos
+1981,NYM,New York Mets
+1981,NYY,New York Yankees
+1981,OAK,Oakland Athletics
+1981,PHI,Philadelphia Phillies
+1981,PIT,Pittsburgh Pirates
+1981,SDP,San Diego Padres
+1981,SEA,Seattle Mariners
+1981,SFG,San Francisco Giants
+1981,STL,St. Louis Cardinals
+1981,TEX,Texas Rangers
+1981,TOR,Toronto Blue Jays
+1982,ATL,Atlanta Braves
+1982,BAL,Baltimore Orioles
+1982,BOS,Boston Red Sox
+1982,CAL,California Angels
+1982,CHC,Chicago Cubs
+1982,CHW,Chicago White Sox
+1982,CIN,Cincinnati Reds
+1982,CLE,Cleveland Indians
+1982,DET,Detroit Tigers
+1982,HOU,Houston Astros
+1982,KCR,Kansas City Royals
+1982,LAD,Los Angeles Dodgers
+1982,MIL,Milwaukee Brewers
+1982,MIN,Minnesota Twins
+1982,MON,Montreal Expos
+1982,NYM,New York Mets
+1982,NYY,New York Yankees
+1982,OAK,Oakland Athletics
+1982,PHI,Philadelphia Phillies
+1982,PIT,Pittsburgh Pirates
+1982,SDP,San Diego Padres
+1982,SEA,Seattle Mariners
+1982,SFG,San Francisco Giants
+1982,STL,St. Louis Cardinals
+1982,TEX,Texas Rangers
+1982,TOR,Toronto Blue Jays
+1983,ATL,Atlanta Braves
+1983,BAL,Baltimore Orioles
+1983,BOS,Boston Red Sox
+1983,CAL,California Angels
+1983,CHC,Chicago Cubs
+1983,CHW,Chicago White Sox
+1983,CIN,Cincinnati Reds
+1983,CLE,Cleveland Indians
+1983,DET,Detroit Tigers
+1983,HOU,Houston Astros
+1983,KCR,Kansas City Royals
+1983,LAD,Los Angeles Dodgers
+1983,MIL,Milwaukee Brewers
+1983,MIN,Minnesota Twins
+1983,MON,Montreal Expos
+1983,NYM,New York Mets
+1983,NYY,New York Yankees
+1983,OAK,Oakland Athletics
+1983,PHI,Philadelphia Phillies
+1983,PIT,Pittsburgh Pirates
+1983,SDP,San Diego Padres
+1983,SEA,Seattle Mariners
+1983,SFG,San Francisco Giants
+1983,STL,St. Louis Cardinals
+1983,TEX,Texas Rangers
+1983,TOR,Toronto Blue Jays
+1984,ATL,Atlanta Braves
+1984,BAL,Baltimore Orioles
+1984,BOS,Boston Red Sox
+1984,CAL,California Angels
+1984,CHC,Chicago Cubs
+1984,CHW,Chicago White Sox
+1984,CIN,Cincinnati Reds
+1984,CLE,Cleveland Indians
+1984,DET,Detroit Tigers
+1984,HOU,Houston Astros
+1984,KCR,Kansas City Royals
+1984,LAD,Los Angeles Dodgers
+1984,MIL,Milwaukee Brewers
+1984,MIN,Minnesota Twins
+1984,MON,Montreal Expos
+1984,NYM,New York Mets
+1984,NYY,New York Yankees
+1984,OAK,Oakland Athletics
+1984,PHI,Philadelphia Phillies
+1984,PIT,Pittsburgh Pirates
+1984,SDP,San Diego Padres
+1984,SEA,Seattle Mariners
+1984,SFG,San Francisco Giants
+1984,STL,St. Louis Cardinals
+1984,TEX,Texas Rangers
+1984,TOR,Toronto Blue Jays
+1985,ATL,Atlanta Braves
+1985,BAL,Baltimore Orioles
+1985,BOS,Boston Red Sox
+1985,CAL,California Angels
+1985,CHC,Chicago Cubs
+1985,CHW,Chicago White Sox
+1985,CIN,Cincinnati Reds
+1985,CLE,Cleveland Indians
+1985,DET,Detroit Tigers
+1985,HOU,Houston Astros
+1985,KCR,Kansas City Royals
+1985,LAD,Los Angeles Dodgers
+1985,MIL,Milwaukee Brewers
+1985,MIN,Minnesota Twins
+1985,MON,Montreal Expos
+1985,NYM,New York Mets
+1985,NYY,New York Yankees
+1985,OAK,Oakland Athletics
+1985,PHI,Philadelphia Phillies
+1985,PIT,Pittsburgh Pirates
+1985,SDP,San Diego Padres
+1985,SEA,Seattle Mariners
+1985,SFG,San Francisco Giants
+1985,STL,St. Louis Cardinals
+1985,TEX,Texas Rangers
+1985,TOR,Toronto Blue Jays
+1986,ATL,Atlanta Braves
+1986,BAL,Baltimore Orioles
+1986,BOS,Boston Red Sox
+1986,CAL,California Angels
+1986,CHC,Chicago Cubs
+1986,CHW,Chicago White Sox
+1986,CIN,Cincinnati Reds
+1986,CLE,Cleveland Indians
+1986,DET,Detroit Tigers
+1986,HOU,Houston Astros
+1986,KCR,Kansas City Royals
+1986,LAD,Los Angeles Dodgers
+1986,MIL,Milwaukee Brewers
+1986,MIN,Minnesota Twins
+1986,MON,Montreal Expos
+1986,NYM,New York Mets
+1986,NYY,New York Yankees
+1986,OAK,Oakland Athletics
+1986,PHI,Philadelphia Phillies
+1986,PIT,Pittsburgh Pirates
+1986,SDP,San Diego Padres
+1986,SEA,Seattle Mariners
+1986,SFG,San Francisco Giants
+1986,STL,St. Louis Cardinals
+1986,TEX,Texas Rangers
+1986,TOR,Toronto Blue Jays
+1987,ATL,Atlanta Braves
+1987,BAL,Baltimore Orioles
+1987,BOS,Boston Red Sox
+1987,CAL,California Angels
+1987,CHC,Chicago Cubs
+1987,CHW,Chicago White Sox
+1987,CIN,Cincinnati Reds
+1987,CLE,Cleveland Indians
+1987,DET,Detroit Tigers
+1987,HOU,Houston Astros
+1987,KCR,Kansas City Royals
+1987,LAD,Los Angeles Dodgers
+1987,MIL,Milwaukee Brewers
+1987,MIN,Minnesota Twins
+1987,MON,Montreal Expos
+1987,NYM,New York Mets
+1987,NYY,New York Yankees
+1987,OAK,Oakland Athletics
+1987,PHI,Philadelphia Phillies
+1987,PIT,Pittsburgh Pirates
+1987,SDP,San Diego Padres
+1987,SEA,Seattle Mariners
+1987,SFG,San Francisco Giants
+1987,STL,St. Louis Cardinals
+1987,TEX,Texas Rangers
+1987,TOR,Toronto Blue Jays
+1988,ATL,Atlanta Braves
+1988,BAL,Baltimore Orioles
+1988,BOS,Boston Red Sox
+1988,CAL,California Angels
+1988,CHC,Chicago Cubs
+1988,CHW,Chicago White Sox
+1988,CIN,Cincinnati Reds
+1988,CLE,Cleveland Indians
+1988,DET,Detroit Tigers
+1988,HOU,Houston Astros
+1988,KCR,Kansas City Royals
+1988,LAD,Los Angeles Dodgers
+1988,MIL,Milwaukee Brewers
+1988,MIN,Minnesota Twins
+1988,MON,Montreal Expos
+1988,NYM,New York Mets
+1988,NYY,New York Yankees
+1988,OAK,Oakland Athletics
+1988,PHI,Philadelphia Phillies
+1988,PIT,Pittsburgh Pirates
+1988,SDP,San Diego Padres
+1988,SEA,Seattle Mariners
+1988,SFG,San Francisco Giants
+1988,STL,St. Louis Cardinals
+1988,TEX,Texas Rangers
+1988,TOR,Toronto Blue Jays
+1989,ATL,Atlanta Braves
+1989,BAL,Baltimore Orioles
+1989,BOS,Boston Red Sox
+1989,CAL,California Angels
+1989,CHC,Chicago Cubs
+1989,CHW,Chicago White Sox
+1989,CIN,Cincinnati Reds
+1989,CLE,Cleveland Indians
+1989,DET,Detroit Tigers
+1989,HOU,Houston Astros
+1989,KCR,Kansas City Royals
+1989,LAD,Los Angeles Dodgers
+1989,MIL,Milwaukee Brewers
+1989,MIN,Minnesota Twins
+1989,MON,Montreal Expos
+1989,NYM,New York Mets
+1989,NYY,New York Yankees
+1989,OAK,Oakland Athletics
+1989,PHI,Philadelphia Phillies
+1989,PIT,Pittsburgh Pirates
+1989,SDP,San Diego Padres
+1989,SEA,Seattle Mariners
+1989,SFG,San Francisco Giants
+1989,STL,St. Louis Cardinals
+1989,TEX,Texas Rangers
+1989,TOR,Toronto Blue Jays
+1990,ATL,Atlanta Braves
+1990,BAL,Baltimore Orioles
+1990,BOS,Boston Red Sox
+1990,CAL,California Angels
+1990,CHC,Chicago Cubs
+1990,CHW,Chicago White Sox
+1990,CIN,Cincinnati Reds
+1990,CLE,Cleveland Indians
+1990,DET,Detroit Tigers
+1990,HOU,Houston Astros
+1990,KCR,Kansas City Royals
+1990,LAD,Los Angeles Dodgers
+1990,MIL,Milwaukee Brewers
+1990,MIN,Minnesota Twins
+1990,MON,Montreal Expos
+1990,NYM,New York Mets
+1990,NYY,New York Yankees
+1990,OAK,Oakland Athletics
+1990,PHI,Philadelphia Phillies
+1990,PIT,Pittsburgh Pirates
+1990,SDP,San Diego Padres
+1990,SEA,Seattle Mariners
+1990,SFG,San Francisco Giants
+1990,STL,St. Louis Cardinals
+1990,TEX,Texas Rangers
+1990,TOR,Toronto Blue Jays
+1991,ATL,Atlanta Braves
+1991,BAL,Baltimore Orioles
+1991,BOS,Boston Red Sox
+1991,CAL,California Angels
+1991,CHC,Chicago Cubs
+1991,CHW,Chicago White Sox
+1991,CIN,Cincinnati Reds
+1991,CLE,Cleveland Indians
+1991,DET,Detroit Tigers
+1991,HOU,Houston Astros
+1991,KCR,Kansas City Royals
+1991,LAD,Los Angeles Dodgers
+1991,MIL,Milwaukee Brewers
+1991,MIN,Minnesota Twins
+1991,MON,Montreal Expos
+1991,NYM,New York Mets
+1991,NYY,New York Yankees
+1991,OAK,Oakland Athletics
+1991,PHI,Philadelphia Phillies
+1991,PIT,Pittsburgh Pirates
+1991,SDP,San Diego Padres
+1991,SEA,Seattle Mariners
+1991,SFG,San Francisco Giants
+1991,STL,St. Louis Cardinals
+1991,TEX,Texas Rangers
+1991,TOR,Toronto Blue Jays
+1992,ATL,Atlanta Braves
+1992,BAL,Baltimore Orioles
+1992,BOS,Boston Red Sox
+1992,CAL,California Angels
+1992,CHC,Chicago Cubs
+1992,CHW,Chicago White Sox
+1992,CIN,Cincinnati Reds
+1992,CLE,Cleveland Indians
+1992,DET,Detroit Tigers
+1992,HOU,Houston Astros
+1992,KCR,Kansas City Royals
+1992,LAD,Los Angeles Dodgers
+1992,MIL,Milwaukee Brewers
+1992,MIN,Minnesota Twins
+1992,MON,Montreal Expos
+1992,NYM,New York Mets
+1992,NYY,New York Yankees
+1992,OAK,Oakland Athletics
+1992,PHI,Philadelphia Phillies
+1992,PIT,Pittsburgh Pirates
+1992,SDP,San Diego Padres
+1992,SEA,Seattle Mariners
+1992,SFG,San Francisco Giants
+1992,STL,St. Louis Cardinals
+1992,TEX,Texas Rangers
+1992,TOR,Toronto Blue Jays
+1993,ATL,Atlanta Braves
+1993,BAL,Baltimore Orioles
+1993,BOS,Boston Red Sox
+1993,CAL,California Angels
+1993,CHC,Chicago Cubs
+1993,CHW,Chicago White Sox
+1993,CIN,Cincinnati Reds
+1993,CLE,Cleveland Indians
+1993,COL,Colorado Rockies
+1993,DET,Detroit Tigers
+1993,FLA,Florida Marlins
+1993,HOU,Houston Astros
+1993,KCR,Kansas City Royals
+1993,LAD,Los Angeles Dodgers
+1993,MIL,Milwaukee Brewers
+1993,MIN,Minnesota Twins
+1993,MON,Montreal Expos
+1993,NYM,New York Mets
+1993,NYY,New York Yankees
+1993,OAK,Oakland Athletics
+1993,PHI,Philadelphia Phillies
+1993,PIT,Pittsburgh Pirates
+1993,SDP,San Diego Padres
+1993,SEA,Seattle Mariners
+1993,SFG,San Francisco Giants
+1993,STL,St. Louis Cardinals
+1993,TEX,Texas Rangers
+1993,TOR,Toronto Blue Jays
+1994,ATL,Atlanta Braves
+1994,BAL,Baltimore Orioles
+1994,BOS,Boston Red Sox
+1994,CAL,California Angels
+1994,CHC,Chicago Cubs
+1994,CHW,Chicago White Sox
+1994,CIN,Cincinnati Reds
+1994,CLE,Cleveland Indians
+1994,COL,Colorado Rockies
+1994,DET,Detroit Tigers
+1994,FLA,Florida Marlins
+1994,HOU,Houston Astros
+1994,KCR,Kansas City Royals
+1994,LAD,Los Angeles Dodgers
+1994,MIL,Milwaukee Brewers
+1994,MIN,Minnesota Twins
+1994,MON,Montreal Expos
+1994,NYM,New York Mets
+1994,NYY,New York Yankees
+1994,OAK,Oakland Athletics
+1994,PHI,Philadelphia Phillies
+1994,PIT,Pittsburgh Pirates
+1994,SDP,San Diego Padres
+1994,SEA,Seattle Mariners
+1994,SFG,San Francisco Giants
+1994,STL,St. Louis Cardinals
+1994,TEX,Texas Rangers
+1994,TOR,Toronto Blue Jays
+1995,ATL,Atlanta Braves
+1995,BAL,Baltimore Orioles
+1995,BOS,Boston Red Sox
+1995,CAL,California Angels
+1995,CHC,Chicago Cubs
+1995,CHW,Chicago White Sox
+1995,CIN,Cincinnati Reds
+1995,CLE,Cleveland Indians
+1995,COL,Colorado Rockies
+1995,DET,Detroit Tigers
+1995,FLA,Florida Marlins
+1995,HOU,Houston Astros
+1995,KCR,Kansas City Royals
+1995,LAD,Los Angeles Dodgers
+1995,MIL,Milwaukee Brewers
+1995,MIN,Minnesota Twins
+1995,MON,Montreal Expos
+1995,NYM,New York Mets
+1995,NYY,New York Yankees
+1995,OAK,Oakland Athletics
+1995,PHI,Philadelphia Phillies
+1995,PIT,Pittsburgh Pirates
+1995,SDP,San Diego Padres
+1995,SEA,Seattle Mariners
+1995,SFG,San Francisco Giants
+1995,STL,St. Louis Cardinals
+1995,TEX,Texas Rangers
+1995,TOR,Toronto Blue Jays
+1996,ATL,Atlanta Braves
+1996,BAL,Baltimore Orioles
+1996,BOS,Boston Red Sox
+1996,CAL,California Angels
+1996,CHC,Chicago Cubs
+1996,CHW,Chicago White Sox
+1996,CIN,Cincinnati Reds
+1996,CLE,Cleveland Indians
+1996,COL,Colorado Rockies
+1996,DET,Detroit Tigers
+1996,FLA,Florida Marlins
+1996,HOU,Houston Astros
+1996,KCR,Kansas City Royals
+1996,LAD,Los Angeles Dodgers
+1996,MIL,Milwaukee Brewers
+1996,MIN,Minnesota Twins
+1996,MON,Montreal Expos
+1996,NYM,New York Mets
+1996,NYY,New York Yankees
+1996,OAK,Oakland Athletics
+1996,PHI,Philadelphia Phillies
+1996,PIT,Pittsburgh Pirates
+1996,SDP,San Diego Padres
+1996,SEA,Seattle Mariners
+1996,SFG,San Francisco Giants
+1996,STL,St. Louis Cardinals
+1996,TEX,Texas Rangers
+1996,TOR,Toronto Blue Jays
+1997,ANA,Anaheim Angels
+1997,ATL,Atlanta Braves
+1997,BAL,Baltimore Orioles
+1997,BOS,Boston Red Sox
+1997,CHC,Chicago Cubs
+1997,CHW,Chicago White Sox
+1997,CIN,Cincinnati Reds
+1997,CLE,Cleveland Indians
+1997,COL,Colorado Rockies
+1997,DET,Detroit Tigers
+1997,FLA,Florida Marlins
+1997,HOU,Houston Astros
+1997,KCR,Kansas City Royals
+1997,LAD,Los Angeles Dodgers
+1997,MIL,Milwaukee Brewers
+1997,MIN,Minnesota Twins
+1997,MON,Montreal Expos
+1997,NYM,New York Mets
+1997,NYY,New York Yankees
+1997,OAK,Oakland Athletics
+1997,PHI,Philadelphia Phillies
+1997,PIT,Pittsburgh Pirates
+1997,SDP,San Diego Padres
+1997,SEA,Seattle Mariners
+1997,SFG,San Francisco Giants
+1997,STL,St. Louis Cardinals
+1997,TEX,Texas Rangers
+1997,TOR,Toronto Blue Jays
+1998,ANA,Anaheim Angels
+1998,ARI,Arizona Diamondbacks
+1998,ATL,Atlanta Braves
+1998,BAL,Baltimore Orioles
+1998,BOS,Boston Red Sox
+1998,CHC,Chicago Cubs
+1998,CHW,Chicago White Sox
+1998,CIN,Cincinnati Reds
+1998,CLE,Cleveland Indians
+1998,COL,Colorado Rockies
+1998,DET,Detroit Tigers
+1998,FLA,Florida Marlins
+1998,HOU,Houston Astros
+1998,KCR,Kansas City Royals
+1998,LAD,Los Angeles Dodgers
+1998,MIL,Milwaukee Brewers
+1998,MIN,Minnesota Twins
+1998,MON,Montreal Expos
+1998,NYM,New York Mets
+1998,NYY,New York Yankees
+1998,OAK,Oakland Athletics
+1998,PHI,Philadelphia Phillies
+1998,PIT,Pittsburgh Pirates
+1998,SDP,San Diego Padres
+1998,SEA,Seattle Mariners
+1998,SFG,San Francisco Giants
+1998,STL,St. Louis Cardinals
+1998,TBD,Tampa Bay Devil Rays
+1998,TEX,Texas Rangers
+1998,TOR,Toronto Blue Jays
+1999,ANA,Anaheim Angels
+1999,ARI,Arizona Diamondbacks
+1999,ATL,Atlanta Braves
+1999,BAL,Baltimore Orioles
+1999,BOS,Boston Red Sox
+1999,CHC,Chicago Cubs
+1999,CHW,Chicago White Sox
+1999,CIN,Cincinnati Reds
+1999,CLE,Cleveland Indians
+1999,COL,Colorado Rockies
+1999,DET,Detroit Tigers
+1999,FLA,Florida Marlins
+1999,HOU,Houston Astros
+1999,KCR,Kansas City Royals
+1999,LAD,Los Angeles Dodgers
+1999,MIL,Milwaukee Brewers
+1999,MIN,Minnesota Twins
+1999,MON,Montreal Expos
+1999,NYM,New York Mets
+1999,NYY,New York Yankees
+1999,OAK,Oakland Athletics
+1999,PHI,Philadelphia Phillies
+1999,PIT,Pittsburgh Pirates
+1999,SDP,San Diego Padres
+1999,SEA,Seattle Mariners
+1999,SFG,San Francisco Giants
+1999,STL,St. Louis Cardinals
+1999,TBD,Tampa Bay Devil Rays
+1999,TEX,Texas Rangers
+1999,TOR,Toronto Blue Jays
+2000,ANA,Anaheim Angels
+2000,ARI,Arizona Diamondbacks
+2000,ATL,Atlanta Braves
+2000,BAL,Baltimore Orioles
+2000,BOS,Boston Red Sox
+2000,CHC,Chicago Cubs
+2000,CHW,Chicago White Sox
+2000,CIN,Cincinnati Reds
+2000,CLE,Cleveland Indians
+2000,COL,Colorado Rockies
+2000,DET,Detroit Tigers
+2000,FLA,Florida Marlins
+2000,HOU,Houston Astros
+2000,KCR,Kansas City Royals
+2000,LAD,Los Angeles Dodgers
+2000,MIL,Milwaukee Brewers
+2000,MIN,Minnesota Twins
+2000,MON,Montreal Expos
+2000,NYM,New York Mets
+2000,NYY,New York Yankees
+2000,OAK,Oakland Athletics
+2000,PHI,Philadelphia Phillies
+2000,PIT,Pittsburgh Pirates
+2000,SDP,San Diego Padres
+2000,SEA,Seattle Mariners
+2000,SFG,San Francisco Giants
+2000,STL,St. Louis Cardinals
+2000,TBD,Tampa Bay Devil Rays
+2000,TEX,Texas Rangers
+2000,TOR,Toronto Blue Jays
+2001,ANA,Anaheim Angels
+2001,ARI,Arizona Diamondbacks
+2001,ATL,Atlanta Braves
+2001,BAL,Baltimore Orioles
+2001,BOS,Boston Red Sox
+2001,CHC,Chicago Cubs
+2001,CHW,Chicago White Sox
+2001,CIN,Cincinnati Reds
+2001,CLE,Cleveland Indians
+2001,COL,Colorado Rockies
+2001,DET,Detroit Tigers
+2001,FLA,Florida Marlins
+2001,HOU,Houston Astros
+2001,KCR,Kansas City Royals
+2001,LAD,Los Angeles Dodgers
+2001,MIL,Milwaukee Brewers
+2001,MIN,Minnesota Twins
+2001,MON,Montreal Expos
+2001,NYM,New York Mets
+2001,NYY,New York Yankees
+2001,OAK,Oakland Athletics
+2001,PHI,Philadelphia Phillies
+2001,PIT,Pittsburgh Pirates
+2001,SDP,San Diego Padres
+2001,SEA,Seattle Mariners
+2001,SFG,San Francisco Giants
+2001,STL,St. Louis Cardinals
+2001,TBD,Tampa Bay Devil Rays
+2001,TEX,Texas Rangers
+2001,TOR,Toronto Blue Jays
+2002,ANA,Anaheim Angels
+2002,ARI,Arizona Diamondbacks
+2002,ATL,Atlanta Braves
+2002,BAL,Baltimore Orioles
+2002,BOS,Boston Red Sox
+2002,CHC,Chicago Cubs
+2002,CHW,Chicago White Sox
+2002,CIN,Cincinnati Reds
+2002,CLE,Cleveland Indians
+2002,COL,Colorado Rockies
+2002,DET,Detroit Tigers
+2002,FLA,Florida Marlins
+2002,HOU,Houston Astros
+2002,KCR,Kansas City Royals
+2002,LAD,Los Angeles Dodgers
+2002,MIL,Milwaukee Brewers
+2002,MIN,Minnesota Twins
+2002,MON,Montreal Expos
+2002,NYM,New York Mets
+2002,NYY,New York Yankees
+2002,OAK,Oakland Athletics
+2002,PHI,Philadelphia Phillies
+2002,PIT,Pittsburgh Pirates
+2002,SDP,San Diego Padres
+2002,SEA,Seattle Mariners
+2002,SFG,San Francisco Giants
+2002,STL,St. Louis Cardinals
+2002,TBD,Tampa Bay Devil Rays
+2002,TEX,Texas Rangers
+2002,TOR,Toronto Blue Jays
+2003,ANA,Anaheim Angels
+2003,ARI,Arizona Diamondbacks
+2003,ATL,Atlanta Braves
+2003,BAL,Baltimore Orioles
+2003,BOS,Boston Red Sox
+2003,CHC,Chicago Cubs
+2003,CHW,Chicago White Sox
+2003,CIN,Cincinnati Reds
+2003,CLE,Cleveland Indians
+2003,COL,Colorado Rockies
+2003,DET,Detroit Tigers
+2003,FLA,Florida Marlins
+2003,HOU,Houston Astros
+2003,KCR,Kansas City Royals
+2003,LAD,Los Angeles Dodgers
+2003,MIL,Milwaukee Brewers
+2003,MIN,Minnesota Twins
+2003,MON,Montreal Expos
+2003,NYM,New York Mets
+2003,NYY,New York Yankees
+2003,OAK,Oakland Athletics
+2003,PHI,Philadelphia Phillies
+2003,PIT,Pittsburgh Pirates
+2003,SDP,San Diego Padres
+2003,SEA,Seattle Mariners
+2003,SFG,San Francisco Giants
+2003,STL,St. Louis Cardinals
+2003,TBD,Tampa Bay Devil Rays
+2003,TEX,Texas Rangers
+2003,TOR,Toronto Blue Jays
+2004,ANA,Anaheim Angels
+2004,ARI,Arizona Diamondbacks
+2004,ATL,Atlanta Braves
+2004,BAL,Baltimore Orioles
+2004,BOS,Boston Red Sox
+2004,CHC,Chicago Cubs
+2004,CHW,Chicago White Sox
+2004,CIN,Cincinnati Reds
+2004,CLE,Cleveland Indians
+2004,COL,Colorado Rockies
+2004,DET,Detroit Tigers
+2004,FLA,Florida Marlins
+2004,HOU,Houston Astros
+2004,KCR,Kansas City Royals
+2004,LAD,Los Angeles Dodgers
+2004,MIL,Milwaukee Brewers
+2004,MIN,Minnesota Twins
+2004,MON,Montreal Expos
+2004,NYM,New York Mets
+2004,NYY,New York Yankees
+2004,OAK,Oakland Athletics
+2004,PHI,Philadelphia Phillies
+2004,PIT,Pittsburgh Pirates
+2004,SDP,San Diego Padres
+2004,SEA,Seattle Mariners
+2004,SFG,San Francisco Giants
+2004,STL,St. Louis Cardinals
+2004,TBD,Tampa Bay Devil Rays
+2004,TEX,Texas Rangers
+2004,TOR,Toronto Blue Jays
+2005,ARI,Arizona Diamondbacks
+2005,ATL,Atlanta Braves
+2005,BAL,Baltimore Orioles
+2005,BOS,Boston Red Sox
+2005,CHC,Chicago Cubs
+2005,CHW,Chicago White Sox
+2005,CIN,Cincinnati Reds
+2005,CLE,Cleveland Indians
+2005,COL,Colorado Rockies
+2005,DET,Detroit Tigers
+2005,FLA,Florida Marlins
+2005,HOU,Houston Astros
+2005,KCR,Kansas City Royals
+2005,LAA,Los Angeles Angels of Anaheim
+2005,LAD,Los Angeles Dodgers
+2005,MIL,Milwaukee Brewers
+2005,MIN,Minnesota Twins
+2005,NYM,New York Mets
+2005,NYY,New York Yankees
+2005,OAK,Oakland Athletics
+2005,PHI,Philadelphia Phillies
+2005,PIT,Pittsburgh Pirates
+2005,SDP,San Diego Padres
+2005,SEA,Seattle Mariners
+2005,SFG,San Francisco Giants
+2005,STL,St. Louis Cardinals
+2005,TBD,Tampa Bay Devil Rays
+2005,TEX,Texas Rangers
+2005,TOR,Toronto Blue Jays
+2005,WSN,Washington Nationals
+2006,ARI,Arizona Diamondbacks
+2006,ATL,Atlanta Braves
+2006,BAL,Baltimore Orioles
+2006,BOS,Boston Red Sox
+2006,CHC,Chicago Cubs
+2006,CHW,Chicago White Sox
+2006,CIN,Cincinnati Reds
+2006,CLE,Cleveland Indians
+2006,COL,Colorado Rockies
+2006,DET,Detroit Tigers
+2006,FLA,Florida Marlins
+2006,HOU,Houston Astros
+2006,KCR,Kansas City Royals
+2006,LAA,Los Angeles Angels of Anaheim
+2006,LAD,Los Angeles Dodgers
+2006,MIL,Milwaukee Brewers
+2006,MIN,Minnesota Twins
+2006,NYM,New York Mets
+2006,NYY,New York Yankees
+2006,OAK,Oakland Athletics
+2006,PHI,Philadelphia Phillies
+2006,PIT,Pittsburgh Pirates
+2006,SDP,San Diego Padres
+2006,SEA,Seattle Mariners
+2006,SFG,San Francisco Giants
+2006,STL,St. Louis Cardinals
+2006,TBD,Tampa Bay Devil Rays
+2006,TEX,Texas Rangers
+2006,TOR,Toronto Blue Jays
+2006,WSN,Washington Nationals
+2007,ARI,Arizona Diamondbacks
+2007,ATL,Atlanta Braves
+2007,BAL,Baltimore Orioles
+2007,BOS,Boston Red Sox
+2007,CHC,Chicago Cubs
+2007,CHW,Chicago White Sox
+2007,CIN,Cincinnati Reds
+2007,CLE,Cleveland Indians
+2007,COL,Colorado Rockies
+2007,DET,Detroit Tigers
+2007,FLA,Florida Marlins
+2007,HOU,Houston Astros
+2007,KCR,Kansas City Royals
+2007,LAA,Los Angeles Angels of Anaheim
+2007,LAD,Los Angeles Dodgers
+2007,MIL,Milwaukee Brewers
+2007,MIN,Minnesota Twins
+2007,NYM,New York Mets
+2007,NYY,New York Yankees
+2007,OAK,Oakland Athletics
+2007,PHI,Philadelphia Phillies
+2007,PIT,Pittsburgh Pirates
+2007,SDP,San Diego Padres
+2007,SEA,Seattle Mariners
+2007,SFG,San Francisco Giants
+2007,STL,St. Louis Cardinals
+2007,TBD,Tampa Bay Devil Rays
+2007,TEX,Texas Rangers
+2007,TOR,Toronto Blue Jays
+2007,WSN,Washington Nationals
+2008,ARI,Arizona Diamondbacks
+2008,ATL,Atlanta Braves
+2008,BAL,Baltimore Orioles
+2008,BOS,Boston Red Sox
+2008,CHC,Chicago Cubs
+2008,CHW,Chicago White Sox
+2008,CIN,Cincinnati Reds
+2008,CLE,Cleveland Indians
+2008,COL,Colorado Rockies
+2008,DET,Detroit Tigers
+2008,FLA,Florida Marlins
+2008,HOU,Houston Astros
+2008,KCR,Kansas City Royals
+2008,LAA,Los Angeles Angels of Anaheim
+2008,LAD,Los Angeles Dodgers
+2008,MIL,Milwaukee Brewers
+2008,MIN,Minnesota Twins
+2008,NYM,New York Mets
+2008,NYY,New York Yankees
+2008,OAK,Oakland Athletics
+2008,PHI,Philadelphia Phillies
+2008,PIT,Pittsburgh Pirates
+2008,SDP,San Diego Padres
+2008,SEA,Seattle Mariners
+2008,SFG,San Francisco Giants
+2008,STL,St. Louis Cardinals
+2008,TBR,Tampa Bay Rays
+2008,TEX,Texas Rangers
+2008,TOR,Toronto Blue Jays
+2008,WSN,Washington Nationals
+2009,ARI,Arizona Diamondbacks
+2009,ATL,Atlanta Braves
+2009,BAL,Baltimore Orioles
+2009,BOS,Boston Red Sox
+2009,CHC,Chicago Cubs
+2009,CHW,Chicago White Sox
+2009,CIN,Cincinnati Reds
+2009,CLE,Cleveland Indians
+2009,COL,Colorado Rockies
+2009,DET,Detroit Tigers
+2009,FLA,Florida Marlins
+2009,HOU,Houston Astros
+2009,KCR,Kansas City Royals
+2009,LAA,Los Angeles Angels of Anaheim
+2009,LAD,Los Angeles Dodgers
+2009,MIL,Milwaukee Brewers
+2009,MIN,Minnesota Twins
+2009,NYM,New York Mets
+2009,NYY,New York Yankees
+2009,OAK,Oakland Athletics
+2009,PHI,Philadelphia Phillies
+2009,PIT,Pittsburgh Pirates
+2009,SDP,San Diego Padres
+2009,SEA,Seattle Mariners
+2009,SFG,San Francisco Giants
+2009,STL,St. Louis Cardinals
+2009,TBR,Tampa Bay Rays
+2009,TEX,Texas Rangers
+2009,TOR,Toronto Blue Jays
+2009,WSN,Washington Nationals
+2010,ARI,Arizona Diamondbacks
+2010,ATL,Atlanta Braves
+2010,BAL,Baltimore Orioles
+2010,BOS,Boston Red Sox
+2010,CHC,Chicago Cubs
+2010,CHW,Chicago White Sox
+2010,CIN,Cincinnati Reds
+2010,CLE,Cleveland Indians
+2010,COL,Colorado Rockies
+2010,DET,Detroit Tigers
+2010,FLA,Florida Marlins
+2010,HOU,Houston Astros
+2010,KCR,Kansas City Royals
+2010,LAA,Los Angeles Angels of Anaheim
+2010,LAD,Los Angeles Dodgers
+2010,MIL,Milwaukee Brewers
+2010,MIN,Minnesota Twins
+2010,NYM,New York Mets
+2010,NYY,New York Yankees
+2010,OAK,Oakland Athletics
+2010,PHI,Philadelphia Phillies
+2010,PIT,Pittsburgh Pirates
+2010,SDP,San Diego Padres
+2010,SEA,Seattle Mariners
+2010,SFG,San Francisco Giants
+2010,STL,St. Louis Cardinals
+2010,TBR,Tampa Bay Rays
+2010,TEX,Texas Rangers
+2010,TOR,Toronto Blue Jays
+2010,WSN,Washington Nationals
+2011,ARI,Arizona Diamondbacks
+2011,ATL,Atlanta Braves
+2011,BAL,Baltimore Orioles
+2011,BOS,Boston Red Sox
+2011,CHC,Chicago Cubs
+2011,CHW,Chicago White Sox
+2011,CIN,Cincinnati Reds
+2011,CLE,Cleveland Indians
+2011,COL,Colorado Rockies
+2011,DET,Detroit Tigers
+2011,FLA,Florida Marlins
+2011,HOU,Houston Astros
+2011,KCR,Kansas City Royals
+2011,LAA,Los Angeles Angels of Anaheim
+2011,LAD,Los Angeles Dodgers
+2011,MIL,Milwaukee Brewers
+2011,MIN,Minnesota Twins
+2011,NYM,New York Mets
+2011,NYY,New York Yankees
+2011,OAK,Oakland Athletics
+2011,PHI,Philadelphia Phillies
+2011,PIT,Pittsburgh Pirates
+2011,SDP,San Diego Padres
+2011,SEA,Seattle Mariners
+2011,SFG,San Francisco Giants
+2011,STL,St. Louis Cardinals
+2011,TBR,Tampa Bay Rays
+2011,TEX,Texas Rangers
+2011,TOR,Toronto Blue Jays
+2011,WSN,Washington Nationals
+2012,ARI,Arizona Diamondbacks
+2012,ATL,Atlanta Braves
+2012,BAL,Baltimore Orioles
+2012,BOS,Boston Red Sox
+2012,CHC,Chicago Cubs
+2012,CHW,Chicago White Sox
+2012,CIN,Cincinnati Reds
+2012,CLE,Cleveland Indians
+2012,COL,Colorado Rockies
+2012,DET,Detroit Tigers
+2012,HOU,Houston Astros
+2012,KCR,Kansas City Royals
+2012,LAA,Los Angeles Angels of Anaheim
+2012,LAD,Los Angeles Dodgers
+2012,MIA,Miami Marlins
+2012,MIL,Milwaukee Brewers
+2012,MIN,Minnesota Twins
+2012,NYM,New York Mets
+2012,NYY,New York Yankees
+2012,OAK,Oakland Athletics
+2012,PHI,Philadelphia Phillies
+2012,PIT,Pittsburgh Pirates
+2012,SDP,San Diego Padres
+2012,SEA,Seattle Mariners
+2012,SFG,San Francisco Giants
+2012,STL,St. Louis Cardinals
+2012,TBR,Tampa Bay Rays
+2012,TEX,Texas Rangers
+2012,TOR,Toronto Blue Jays
+2012,WSN,Washington Nationals
+2013,ARI,Arizona Diamondbacks
+2013,ATL,Atlanta Braves
+2013,BAL,Baltimore Orioles
+2013,BOS,Boston Red Sox
+2013,CHC,Chicago Cubs
+2013,CHW,Chicago White Sox
+2013,CIN,Cincinnati Reds
+2013,CLE,Cleveland Indians
+2013,COL,Colorado Rockies
+2013,DET,Detroit Tigers
+2013,HOU,Houston Astros
+2013,KCR,Kansas City Royals
+2013,LAA,Los Angeles Angels of Anaheim
+2013,LAD,Los Angeles Dodgers
+2013,MIA,Miami Marlins
+2013,MIL,Milwaukee Brewers
+2013,MIN,Minnesota Twins
+2013,NYM,New York Mets
+2013,NYY,New York Yankees
+2013,OAK,Oakland Athletics
+2013,PHI,Philadelphia Phillies
+2013,PIT,Pittsburgh Pirates
+2013,SDP,San Diego Padres
+2013,SEA,Seattle Mariners
+2013,SFG,San Francisco Giants
+2013,STL,St. Louis Cardinals
+2013,TBR,Tampa Bay Rays
+2013,TEX,Texas Rangers
+2013,TOR,Toronto Blue Jays
+2013,WSN,Washington Nationals
+2014,ARI,Arizona Diamondbacks
+2014,ATL,Atlanta Braves
+2014,BAL,Baltimore Orioles
+2014,BOS,Boston Red Sox
+2014,CHC,Chicago Cubs
+2014,CHW,Chicago White Sox
+2014,CIN,Cincinnati Reds
+2014,CLE,Cleveland Indians
+2014,COL,Colorado Rockies
+2014,DET,Detroit Tigers
+2014,HOU,Houston Astros
+2014,KCR,Kansas City Royals
+2014,LAA,Los Angeles Angels of Anaheim
+2014,LAD,Los Angeles Dodgers
+2014,MIA,Miami Marlins
+2014,MIL,Milwaukee Brewers
+2014,MIN,Minnesota Twins
+2014,NYM,New York Mets
+2014,NYY,New York Yankees
+2014,OAK,Oakland Athletics
+2014,PHI,Philadelphia Phillies
+2014,PIT,Pittsburgh Pirates
+2014,SDP,San Diego Padres
+2014,SEA,Seattle Mariners
+2014,SFG,San Francisco Giants
+2014,STL,St. Louis Cardinals
+2014,TBR,Tampa Bay Rays
+2014,TEX,Texas Rangers
+2014,TOR,Toronto Blue Jays
+2014,WSN,Washington Nationals
+2015,ARI,Arizona Diamondbacks
+2015,ATL,Atlanta Braves
+2015,BAL,Baltimore Orioles
+2015,BOS,Boston Red Sox
+2015,CHC,Chicago Cubs
+2015,CHW,Chicago White Sox
+2015,CIN,Cincinnati Reds
+2015,CLE,Cleveland Indians
+2015,COL,Colorado Rockies
+2015,DET,Detroit Tigers
+2015,HOU,Houston Astros
+2015,KCR,Kansas City Royals
+2015,LAA,Los Angeles Angels of Anaheim
+2015,LAD,Los Angeles Dodgers
+2015,MIA,Miami Marlins
+2015,MIL,Milwaukee Brewers
+2015,MIN,Minnesota Twins
+2015,NYM,New York Mets
+2015,NYY,New York Yankees
+2015,OAK,Oakland Athletics
+2015,PHI,Philadelphia Phillies
+2015,PIT,Pittsburgh Pirates
+2015,SDP,San Diego Padres
+2015,SEA,Seattle Mariners
+2015,SFG,San Francisco Giants
+2015,STL,St. Louis Cardinals
+2015,TBR,Tampa Bay Rays
+2015,TEX,Texas Rangers
+2015,TOR,Toronto Blue Jays
+2015,WSN,Washington Nationals
+2016,ARI,Arizona Diamondbacks
+2016,ATL,Atlanta Braves
+2016,BAL,Baltimore Orioles
+2016,BOS,Boston Red Sox
+2016,CHC,Chicago Cubs
+2016,CHW,Chicago White Sox
+2016,CIN,Cincinnati Reds
+2016,CLE,Cleveland Indians
+2016,COL,Colorado Rockies
+2016,DET,Detroit Tigers
+2016,HOU,Houston Astros
+2016,KCR,Kansas City Royals
+2016,LAA,Los Angeles Angels
+2016,LAD,Los Angeles Dodgers
+2016,MIA,Miami Marlins
+2016,MIL,Milwaukee Brewers
+2016,MIN,Minnesota Twins
+2016,NYM,New York Mets
+2016,NYY,New York Yankees
+2016,OAK,Oakland Athletics
+2016,PHI,Philadelphia Phillies
+2016,PIT,Pittsburgh Pirates
+2016,SDP,San Diego Padres
+2016,SEA,Seattle Mariners
+2016,SFG,San Francisco Giants
+2016,STL,St. Louis Cardinals
+2016,TBR,Tampa Bay Rays
+2016,TEX,Texas Rangers
+2016,TOR,Toronto Blue Jays
+2016,WSN,Washington Nationals
+2017,ARI,Arizona Diamondbacks
+2017,ATL,Atlanta Braves
+2017,BAL,Baltimore Orioles
+2017,BOS,Boston Red Sox
+2017,CHC,Chicago Cubs
+2017,CHW,Chicago White Sox
+2017,CIN,Cincinnati Reds
+2017,CLE,Cleveland Indians
+2017,COL,Colorado Rockies
+2017,DET,Detroit Tigers
+2017,HOU,Houston Astros
+2017,KCR,Kansas City Royals
+2017,LAA,Los Angeles Angels
+2017,LAD,Los Angeles Dodgers
+2017,MIA,Miami Marlins
+2017,MIL,Milwaukee Brewers
+2017,MIN,Minnesota Twins
+2017,NYM,New York Mets
+2017,NYY,New York Yankees
+2017,OAK,Oakland Athletics
+2017,PHI,Philadelphia Phillies
+2017,PIT,Pittsburgh Pirates
+2017,SDP,San Diego Padres
+2017,SEA,Seattle Mariners
+2017,SFG,San Francisco Giants
+2017,STL,St. Louis Cardinals
+2017,TBR,Tampa Bay Rays
+2017,TEX,Texas Rangers
+2017,TOR,Toronto Blue Jays
+2017,WSN,Washington Nationals
+2018,ARI,Arizona Diamondbacks
+2018,ATL,Atlanta Braves
+2018,BAL,Baltimore Orioles
+2018,BOS,Boston Red Sox
+2018,CHC,Chicago Cubs
+2018,CHW,Chicago White Sox
+2018,CIN,Cincinnati Reds
+2018,CLE,Cleveland Indians
+2018,COL,Colorado Rockies
+2018,DET,Detroit Tigers
+2018,HOU,Houston Astros
+2018,KCR,Kansas City Royals
+2018,LAA,Los Angeles Angels
+2018,LAD,Los Angeles Dodgers
+2018,MIA,Miami Marlins
+2018,MIL,Milwaukee Brewers
+2018,MIN,Minnesota Twins
+2018,NYM,New York Mets
+2018,NYY,New York Yankees
+2018,OAK,Oakland Athletics
+2018,PHI,Philadelphia Phillies
+2018,PIT,Pittsburgh Pirates
+2018,SDP,San Diego Padres
+2018,SEA,Seattle Mariners
+2018,SFG,San Francisco Giants
+2018,STL,St. Louis Cardinals
+2018,TBR,Tampa Bay Rays
+2018,TEX,Texas Rangers
+2018,TOR,Toronto Blue Jays
+2018,WSN,Washington Nationals
