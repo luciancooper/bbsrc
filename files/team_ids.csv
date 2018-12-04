@@ -1,0 +1,1479 @@
+﻿year,retro_id,lahman_id,bbr_id,city,team,name
+1964,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1964,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1964,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1964,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1964,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1964,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1964,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1964,HOU,HOU,HOU,Houston,Astros,Houston Colt .45's
+1964,KC1,KC1,KCA,Kansas City,Athletics,Kansas City Athletics
+1964,LAA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels
+1964,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1964,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1964,MLN,ML1,MLN,Milwaukee,Braves,Milwaukee Braves
+1964,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1964,NYN,NYN,NYM,New York,Mets,New York Mets
+1964,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1964,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1964,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1964,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1964,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1965,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1965,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1965,CAL,CAL,CAL,California,Angels,California Angels
+1965,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1965,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1965,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1965,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1965,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1965,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1965,KC1,KC1,KCA,Kansas City,Athletics,Kansas City Athletics
+1965,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1965,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1965,MLN,ML1,MLN,Milwaukee,Braves,Milwaukee Braves
+1965,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1965,NYN,NYN,NYM,New York,Mets,New York Mets
+1965,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1965,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1965,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1965,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1965,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1966,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1966,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1966,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1966,CAL,CAL,CAL,California,Angels,California Angels
+1966,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1966,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1966,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1966,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1966,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1966,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1966,KC1,KC1,KCA,Kansas City,Athletics,Kansas City Athletics
+1966,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1966,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1966,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1966,NYN,NYN,NYM,New York,Mets,New York Mets
+1966,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1966,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1966,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1966,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1966,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1967,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1967,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1967,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1967,CAL,CAL,CAL,California,Angels,California Angels
+1967,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1967,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1967,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1967,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1967,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1967,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1967,KC1,KC1,KCA,Kansas City,Athletics,Kansas City Athletics
+1967,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1967,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1967,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1967,NYN,NYN,NYM,New York,Mets,New York Mets
+1967,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1967,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1967,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1967,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1967,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1968,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1968,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1968,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1968,CAL,CAL,CAL,California,Angels,California Angels
+1968,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1968,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1968,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1968,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1968,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1968,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1968,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1968,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1968,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1968,NYN,NYN,NYM,New York,Mets,New York Mets
+1968,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1968,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1968,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1968,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1968,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1968,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1969,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1969,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1969,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1969,CAL,CAL,CAL,California,Angels,California Angels
+1969,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1969,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1969,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1969,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1969,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1969,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1969,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1969,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1969,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1969,MON,MON,MON,Montreal,Expos,Montreal Expos
+1969,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1969,NYN,NYN,NYM,New York,Mets,New York Mets
+1969,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1969,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1969,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1969,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1969,SE1,SE1,SEP,Seattle,Pilots,Seattle Pilots
+1969,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1969,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1969,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1970,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1970,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1970,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1970,CAL,CAL,CAL,California,Angels,California Angels
+1970,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1970,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1970,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1970,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1970,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1970,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1970,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1970,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1970,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1970,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1970,MON,MON,MON,Montreal,Expos,Montreal Expos
+1970,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1970,NYN,NYN,NYM,New York,Mets,New York Mets
+1970,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1970,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1970,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1970,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1970,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1970,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1970,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1971,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1971,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1971,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1971,CAL,CAL,CAL,California,Angels,California Angels
+1971,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1971,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1971,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1971,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1971,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1971,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1971,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1971,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1971,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1971,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1971,MON,MON,MON,Montreal,Expos,Montreal Expos
+1971,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1971,NYN,NYN,NYM,New York,Mets,New York Mets
+1971,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1971,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1971,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1971,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1971,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1971,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1971,WS2,WS2,WSA,Washington,Senators,Washington Senators
+1972,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1972,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1972,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1972,CAL,CAL,CAL,California,Angels,California Angels
+1972,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1972,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1972,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1972,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1972,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1972,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1972,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1972,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1972,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1972,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1972,MON,MON,MON,Montreal,Expos,Montreal Expos
+1972,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1972,NYN,NYN,NYM,New York,Mets,New York Mets
+1972,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1972,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1972,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1972,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1972,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1972,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1972,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1973,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1973,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1973,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1973,CAL,CAL,CAL,California,Angels,California Angels
+1973,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1973,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1973,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1973,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1973,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1973,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1973,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1973,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1973,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1973,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1973,MON,MON,MON,Montreal,Expos,Montreal Expos
+1973,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1973,NYN,NYN,NYM,New York,Mets,New York Mets
+1973,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1973,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1973,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1973,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1973,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1973,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1973,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1974,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1974,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1974,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1974,CAL,CAL,CAL,California,Angels,California Angels
+1974,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1974,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1974,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1974,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1974,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1974,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1974,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1974,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1974,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1974,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1974,MON,MON,MON,Montreal,Expos,Montreal Expos
+1974,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1974,NYN,NYN,NYM,New York,Mets,New York Mets
+1974,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1974,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1974,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1974,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1974,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1974,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1974,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1975,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1975,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1975,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1975,CAL,CAL,CAL,California,Angels,California Angels
+1975,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1975,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1975,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1975,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1975,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1975,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1975,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1975,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1975,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1975,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1975,MON,MON,MON,Montreal,Expos,Montreal Expos
+1975,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1975,NYN,NYN,NYM,New York,Mets,New York Mets
+1975,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1975,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1975,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1975,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1975,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1975,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1975,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1976,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1976,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1976,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1976,CAL,CAL,CAL,California,Angels,California Angels
+1976,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1976,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1976,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1976,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1976,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1976,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1976,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1976,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1976,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1976,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1976,MON,MON,MON,Montreal,Expos,Montreal Expos
+1976,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1976,NYN,NYN,NYM,New York,Mets,New York Mets
+1976,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1976,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1976,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1976,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1976,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1976,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1976,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1977,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1977,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1977,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1977,CAL,CAL,CAL,California,Angels,California Angels
+1977,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1977,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1977,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1977,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1977,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1977,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1977,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1977,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1977,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1977,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1977,MON,MON,MON,Montreal,Expos,Montreal Expos
+1977,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1977,NYN,NYN,NYM,New York,Mets,New York Mets
+1977,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1977,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1977,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1977,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1977,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1977,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1977,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1977,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1977,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1978,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1978,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1978,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1978,CAL,CAL,CAL,California,Angels,California Angels
+1978,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1978,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1978,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1978,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1978,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1978,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1978,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1978,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1978,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1978,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1978,MON,MON,MON,Montreal,Expos,Montreal Expos
+1978,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1978,NYN,NYN,NYM,New York,Mets,New York Mets
+1978,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1978,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1978,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1978,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1978,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1978,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1978,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1978,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1978,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1979,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1979,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1979,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1979,CAL,CAL,CAL,California,Angels,California Angels
+1979,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1979,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1979,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1979,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1979,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1979,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1979,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1979,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1979,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1979,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1979,MON,MON,MON,Montreal,Expos,Montreal Expos
+1979,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1979,NYN,NYN,NYM,New York,Mets,New York Mets
+1979,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1979,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1979,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1979,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1979,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1979,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1979,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1979,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1979,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1980,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1980,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1980,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1980,CAL,CAL,CAL,California,Angels,California Angels
+1980,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1980,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1980,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1980,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1980,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1980,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1980,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1980,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1980,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1980,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1980,MON,MON,MON,Montreal,Expos,Montreal Expos
+1980,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1980,NYN,NYN,NYM,New York,Mets,New York Mets
+1980,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1980,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1980,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1980,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1980,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1980,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1980,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1980,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1980,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1981,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1981,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1981,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1981,CAL,CAL,CAL,California,Angels,California Angels
+1981,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1981,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1981,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1981,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1981,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1981,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1981,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1981,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1981,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1981,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1981,MON,MON,MON,Montreal,Expos,Montreal Expos
+1981,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1981,NYN,NYN,NYM,New York,Mets,New York Mets
+1981,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1981,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1981,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1981,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1981,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1981,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1981,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1981,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1981,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1982,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1982,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1982,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1982,CAL,CAL,CAL,California,Angels,California Angels
+1982,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1982,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1982,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1982,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1982,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1982,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1982,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1982,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1982,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1982,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1982,MON,MON,MON,Montreal,Expos,Montreal Expos
+1982,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1982,NYN,NYN,NYM,New York,Mets,New York Mets
+1982,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1982,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1982,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1982,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1982,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1982,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1982,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1982,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1982,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1983,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1983,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1983,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1983,CAL,CAL,CAL,California,Angels,California Angels
+1983,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1983,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1983,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1983,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1983,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1983,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1983,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1983,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1983,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1983,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1983,MON,MON,MON,Montreal,Expos,Montreal Expos
+1983,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1983,NYN,NYN,NYM,New York,Mets,New York Mets
+1983,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1983,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1983,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1983,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1983,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1983,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1983,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1983,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1983,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1984,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1984,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1984,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1984,CAL,CAL,CAL,California,Angels,California Angels
+1984,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1984,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1984,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1984,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1984,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1984,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1984,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1984,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1984,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1984,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1984,MON,MON,MON,Montreal,Expos,Montreal Expos
+1984,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1984,NYN,NYN,NYM,New York,Mets,New York Mets
+1984,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1984,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1984,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1984,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1984,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1984,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1984,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1984,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1984,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1985,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1985,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1985,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1985,CAL,CAL,CAL,California,Angels,California Angels
+1985,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1985,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1985,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1985,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1985,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1985,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1985,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1985,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1985,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1985,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1985,MON,MON,MON,Montreal,Expos,Montreal Expos
+1985,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1985,NYN,NYN,NYM,New York,Mets,New York Mets
+1985,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1985,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1985,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1985,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1985,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1985,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1985,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1985,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1985,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1986,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1986,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1986,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1986,CAL,CAL,CAL,California,Angels,California Angels
+1986,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1986,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1986,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1986,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1986,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1986,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1986,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1986,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1986,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1986,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1986,MON,MON,MON,Montreal,Expos,Montreal Expos
+1986,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1986,NYN,NYN,NYM,New York,Mets,New York Mets
+1986,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1986,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1986,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1986,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1986,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1986,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1986,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1986,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1986,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1987,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1987,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1987,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1987,CAL,CAL,CAL,California,Angels,California Angels
+1987,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1987,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1987,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1987,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1987,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1987,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1987,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1987,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1987,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1987,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1987,MON,MON,MON,Montreal,Expos,Montreal Expos
+1987,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1987,NYN,NYN,NYM,New York,Mets,New York Mets
+1987,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1987,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1987,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1987,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1987,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1987,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1987,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1987,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1987,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1988,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1988,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1988,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1988,CAL,CAL,CAL,California,Angels,California Angels
+1988,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1988,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1988,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1988,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1988,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1988,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1988,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1988,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1988,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1988,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1988,MON,MON,MON,Montreal,Expos,Montreal Expos
+1988,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1988,NYN,NYN,NYM,New York,Mets,New York Mets
+1988,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1988,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1988,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1988,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1988,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1988,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1988,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1988,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1988,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1989,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1989,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1989,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1989,CAL,CAL,CAL,California,Angels,California Angels
+1989,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1989,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1989,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1989,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1989,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1989,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1989,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1989,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1989,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1989,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1989,MON,MON,MON,Montreal,Expos,Montreal Expos
+1989,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1989,NYN,NYN,NYM,New York,Mets,New York Mets
+1989,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1989,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1989,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1989,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1989,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1989,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1989,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1989,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1989,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1990,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1990,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1990,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1990,CAL,CAL,CAL,California,Angels,California Angels
+1990,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1990,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1990,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1990,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1990,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1990,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1990,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1990,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1990,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1990,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1990,MON,MON,MON,Montreal,Expos,Montreal Expos
+1990,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1990,NYN,NYN,NYM,New York,Mets,New York Mets
+1990,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1990,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1990,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1990,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1990,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1990,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1990,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1990,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1990,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1991,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1991,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1991,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1991,CAL,CAL,CAL,California,Angels,California Angels
+1991,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1991,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1991,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1991,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1991,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1991,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1991,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1991,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1991,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1991,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1991,MON,MON,MON,Montreal,Expos,Montreal Expos
+1991,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1991,NYN,NYN,NYM,New York,Mets,New York Mets
+1991,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1991,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1991,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1991,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1991,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1991,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1991,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1991,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1991,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1992,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1992,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1992,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1992,CAL,CAL,CAL,California,Angels,California Angels
+1992,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1992,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1992,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1992,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1992,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1992,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1992,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1992,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1992,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1992,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1992,MON,MON,MON,Montreal,Expos,Montreal Expos
+1992,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1992,NYN,NYN,NYM,New York,Mets,New York Mets
+1992,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1992,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1992,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1992,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1992,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1992,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1992,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1992,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1992,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1993,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1993,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1993,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1993,CAL,CAL,CAL,California,Angels,California Angels
+1993,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1993,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1993,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1993,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1993,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+1993,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1993,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+1993,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1993,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1993,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1993,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1993,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1993,MON,MON,MON,Montreal,Expos,Montreal Expos
+1993,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1993,NYN,NYN,NYM,New York,Mets,New York Mets
+1993,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1993,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1993,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1993,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1993,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1993,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1993,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1993,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1993,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1994,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1994,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1994,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1994,CAL,CAL,CAL,California,Angels,California Angels
+1994,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1994,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1994,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1994,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1994,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+1994,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1994,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+1994,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1994,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1994,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1994,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1994,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1994,MON,MON,MON,Montreal,Expos,Montreal Expos
+1994,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1994,NYN,NYN,NYM,New York,Mets,New York Mets
+1994,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1994,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1994,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1994,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1994,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1994,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1994,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1994,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1994,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1995,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1995,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1995,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1995,CAL,CAL,CAL,California,Angels,California Angels
+1995,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1995,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1995,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1995,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1995,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+1995,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1995,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+1995,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1995,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1995,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1995,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1995,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1995,MON,MON,MON,Montreal,Expos,Montreal Expos
+1995,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1995,NYN,NYN,NYM,New York,Mets,New York Mets
+1995,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1995,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1995,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1995,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1995,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1995,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1995,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1995,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1995,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1996,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1996,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1996,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1996,CAL,CAL,CAL,California,Angels,California Angels
+1996,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1996,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1996,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1996,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1996,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+1996,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1996,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+1996,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1996,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1996,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1996,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1996,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1996,MON,MON,MON,Montreal,Expos,Montreal Expos
+1996,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1996,NYN,NYN,NYM,New York,Mets,New York Mets
+1996,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1996,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1996,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1996,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1996,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1996,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1996,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1996,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1996,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1997,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+1997,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1997,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1997,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1997,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1997,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1997,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1997,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1997,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+1997,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1997,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+1997,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1997,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1997,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1997,MIL,ML4,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1997,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1997,MON,MON,MON,Montreal,Expos,Montreal Expos
+1997,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1997,NYN,NYN,NYM,New York,Mets,New York Mets
+1997,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1997,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1997,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1997,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1997,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1997,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1997,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1997,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1997,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1998,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+1998,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+1998,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1998,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1998,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1998,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1998,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1998,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1998,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1998,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+1998,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1998,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+1998,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1998,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1998,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1998,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1998,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1998,MON,MON,MON,Montreal,Expos,Montreal Expos
+1998,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1998,NYN,NYN,NYM,New York,Mets,New York Mets
+1998,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1998,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1998,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1998,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1998,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1998,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1998,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1998,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+1998,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1998,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+1999,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+1999,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+1999,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+1999,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+1999,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+1999,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+1999,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+1999,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+1999,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+1999,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+1999,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+1999,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+1999,HOU,HOU,HOU,Houston,Astros,Houston Astros
+1999,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+1999,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+1999,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+1999,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+1999,MON,MON,MON,Montreal,Expos,Montreal Expos
+1999,NYA,NYA,NYY,New York,Yankees,New York Yankees
+1999,NYN,NYN,NYM,New York,Mets,New York Mets
+1999,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+1999,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+1999,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+1999,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+1999,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+1999,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+1999,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+1999,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+1999,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+1999,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2000,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+2000,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2000,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2000,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2000,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2000,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2000,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2000,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2000,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2000,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2000,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2000,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2000,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2000,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2000,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2000,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2000,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2000,MON,MON,MON,Montreal,Expos,Montreal Expos
+2000,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2000,NYN,NYN,NYM,New York,Mets,New York Mets
+2000,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2000,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2000,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2000,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2000,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2000,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2000,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2000,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2000,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2000,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2001,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+2001,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2001,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2001,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2001,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2001,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2001,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2001,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2001,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2001,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2001,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2001,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2001,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2001,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2001,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2001,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2001,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2001,MON,MON,MON,Montreal,Expos,Montreal Expos
+2001,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2001,NYN,NYN,NYM,New York,Mets,New York Mets
+2001,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2001,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2001,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2001,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2001,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2001,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2001,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2001,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2001,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2001,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2002,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+2002,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2002,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2002,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2002,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2002,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2002,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2002,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2002,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2002,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2002,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2002,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2002,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2002,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2002,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2002,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2002,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2002,MON,MON,MON,Montreal,Expos,Montreal Expos
+2002,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2002,NYN,NYN,NYM,New York,Mets,New York Mets
+2002,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2002,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2002,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2002,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2002,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2002,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2002,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2002,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2002,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2002,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2003,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+2003,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2003,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2003,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2003,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2003,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2003,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2003,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2003,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2003,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2003,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2003,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2003,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2003,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2003,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2003,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2003,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2003,MON,MON,MON,Montreal,Expos,Montreal Expos
+2003,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2003,NYN,NYN,NYM,New York,Mets,New York Mets
+2003,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2003,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2003,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2003,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2003,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2003,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2003,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2003,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2003,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2003,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2004,ANA,ANA,ANA,Anaheim,Angels,Anaheim Angels
+2004,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2004,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2004,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2004,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2004,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2004,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2004,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2004,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2004,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2004,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2004,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2004,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2004,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2004,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2004,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2004,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2004,MON,MON,MON,Montreal,Expos,Montreal Expos
+2004,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2004,NYN,NYN,NYM,New York,Mets,New York Mets
+2004,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2004,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2004,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2004,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2004,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2004,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2004,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2004,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2004,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2004,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2005,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2005,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2005,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2005,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2005,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2005,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2005,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2005,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2005,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2005,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2005,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2005,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2005,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2005,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2005,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2005,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2005,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2005,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2005,NYN,NYN,NYM,New York,Mets,New York Mets
+2005,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2005,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2005,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2005,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2005,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2005,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2005,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2005,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2005,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2005,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2005,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2006,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2006,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2006,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2006,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2006,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2006,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2006,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2006,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2006,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2006,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2006,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2006,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2006,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2006,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2006,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2006,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2006,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2006,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2006,NYN,NYN,NYM,New York,Mets,New York Mets
+2006,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2006,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2006,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2006,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2006,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2006,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2006,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2006,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2006,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2006,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2006,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2007,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2007,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2007,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2007,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2007,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2007,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2007,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2007,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2007,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2007,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2007,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2007,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2007,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2007,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2007,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2007,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2007,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2007,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2007,NYN,NYN,NYM,New York,Mets,New York Mets
+2007,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2007,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2007,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2007,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2007,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2007,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2007,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2007,TBA,TBA,TBD,Tampa Bay,Devil Rays,Tampa Bay Devil Rays
+2007,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2007,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2007,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2008,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2008,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2008,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2008,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2008,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2008,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2008,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2008,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2008,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2008,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2008,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2008,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2008,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2008,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2008,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2008,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2008,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2008,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2008,NYN,NYN,NYM,New York,Mets,New York Mets
+2008,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2008,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2008,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2008,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2008,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2008,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2008,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2008,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2008,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2008,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2008,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2009,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2009,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2009,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2009,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2009,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2009,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2009,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2009,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2009,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2009,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2009,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2009,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2009,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2009,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2009,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2009,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2009,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2009,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2009,NYN,NYN,NYM,New York,Mets,New York Mets
+2009,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2009,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2009,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2009,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2009,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2009,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2009,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2009,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2009,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2009,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2009,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2010,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2010,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2010,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2010,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2010,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2010,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2010,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2010,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2010,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2010,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2010,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2010,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2010,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2010,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2010,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2010,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2010,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2010,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2010,NYN,NYN,NYM,New York,Mets,New York Mets
+2010,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2010,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2010,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2010,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2010,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2010,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2010,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2010,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2010,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2010,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2010,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2011,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2011,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2011,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2011,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2011,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2011,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2011,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2011,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2011,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2011,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2011,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2011,FLO,FLO,FLA,Florida,Marlins,Florida Marlins
+2011,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2011,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2011,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2011,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2011,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2011,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2011,NYN,NYN,NYM,New York,Mets,New York Mets
+2011,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2011,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2011,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2011,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2011,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2011,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2011,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2011,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2011,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2011,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2011,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2012,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2012,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2012,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2012,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2012,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2012,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2012,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2012,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2012,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2012,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2012,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2012,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2012,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2012,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2012,MIA,MIA,MIA,Miami,Marlins,Miami Marlins
+2012,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2012,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2012,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2012,NYN,NYN,NYM,New York,Mets,New York Mets
+2012,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2012,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2012,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2012,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2012,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2012,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2012,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2012,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2012,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2012,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2012,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2013,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2013,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2013,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2013,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2013,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2013,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2013,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2013,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2013,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2013,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2013,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2013,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2013,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2013,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2013,MIA,MIA,MIA,Miami,Marlins,Miami Marlins
+2013,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2013,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2013,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2013,NYN,NYN,NYM,New York,Mets,New York Mets
+2013,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2013,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2013,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2013,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2013,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2013,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2013,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2013,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2013,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2013,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2013,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2014,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2014,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2014,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2014,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2014,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2014,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2014,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2014,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2014,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2014,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2014,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2014,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2014,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2014,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2014,MIA,MIA,MIA,Miami,Marlins,Miami Marlins
+2014,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2014,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2014,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2014,NYN,NYN,NYM,New York,Mets,New York Mets
+2014,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2014,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2014,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2014,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2014,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2014,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2014,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2014,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2014,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2014,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2014,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2015,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels of Anaheim
+2015,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2015,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2015,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2015,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2015,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2015,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2015,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2015,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2015,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2015,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2015,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2015,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2015,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2015,MIA,MIA,MIA,Miami,Marlins,Miami Marlins
+2015,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2015,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2015,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2015,NYN,NYN,NYM,New York,Mets,New York Mets
+2015,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2015,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2015,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2015,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2015,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2015,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2015,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2015,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2015,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2015,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2015,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2016,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels
+2016,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2016,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2016,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2016,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2016,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2016,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2016,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2016,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2016,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2016,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2016,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2016,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2016,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2016,MIA,MIA,MIA,Miami,Marlins,Miami Marlins
+2016,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2016,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2016,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2016,NYN,NYN,NYM,New York,Mets,New York Mets
+2016,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2016,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2016,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2016,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2016,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2016,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2016,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2016,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2016,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2016,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2016,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2017,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels
+2017,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2017,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2017,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2017,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2017,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2017,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2017,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2017,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2017,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2017,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2017,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2017,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2017,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2017,MIA,MIA,MIA,Miami,Marlins,Miami Marlins
+2017,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2017,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2017,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2017,NYN,NYN,NYM,New York,Mets,New York Mets
+2017,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2017,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2017,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2017,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2017,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2017,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2017,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2017,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2017,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2017,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2017,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
+2018,ANA,LAA,LAA,Los Angeles,Angels,Los Angeles Angels
+2018,ARI,ARI,ARI,Arizona,Diamondbacks,Arizona Diamondbacks
+2018,ATL,ATL,ATL,Atlanta,Braves,Atlanta Braves
+2018,BAL,BAL,BAL,Baltimore,Orioles,Baltimore Orioles
+2018,BOS,BOS,BOS,Boston,Red Sox,Boston Red Sox
+2018,CHA,CHA,CHW,Chicago,White Sox,Chicago White Sox
+2018,CHN,CHN,CHC,Chicago,Cubs,Chicago Cubs
+2018,CIN,CIN,CIN,Cincinnati,Reds,Cincinnati Reds
+2018,CLE,CLE,CLE,Cleveland,Indians,Cleveland Indians
+2018,COL,COL,COL,Colorado,Rockies,Colorado Rockies
+2018,DET,DET,DET,Detroit,Tigers,Detroit Tigers
+2018,HOU,HOU,HOU,Houston,Astros,Houston Astros
+2018,KCA,KCA,KCR,Kansas City,Royals,Kansas City Royals
+2018,LAN,LAN,LAD,Los Angeles,Dodgers,Los Angeles Dodgers
+2018,MIA,MIA,MIA,Miami,Marlins,Miami Marlins
+2018,MIL,MIL,MIL,Milwaukee,Brewers,Milwaukee Brewers
+2018,MIN,MIN,MIN,Minnesota,Twins,Minnesota Twins
+2018,NYA,NYA,NYY,New York,Yankees,New York Yankees
+2018,NYN,NYN,NYM,New York,Mets,New York Mets
+2018,OAK,OAK,OAK,Oakland,Athletics,Oakland Athletics
+2018,PHI,PHI,PHI,Philadelphia,Phillies,Philadelphia Phillies
+2018,PIT,PIT,PIT,Pittsburgh,Pirates,Pittsburgh Pirates
+2018,SDN,SDN,SDP,San Diego,Padres,San Diego Padres
+2018,SEA,SEA,SEA,Seattle,Mariners,Seattle Mariners
+2018,SFN,SFN,SFG,San Francisco,Giants,San Francisco Giants
+2018,SLN,SLN,STL,St. Louis,Cardinals,St. Louis Cardinals
+2018,TBA,TBA,TBR,Tampa Bay,Devil Rays,Tampa Bay Rays
+2018,TEX,TEX,TEX,Texas,Rangers,Texas Rangers
+2018,TOR,TOR,TOR,Toronto,Blue Jays,Toronto Blue Jays
+2018,WAS,WAS,WSN,Washington,Nationals,Washington Nationals
