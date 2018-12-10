@@ -1,52 +1,9 @@
 #!/usr/bin/env python
 
 import os
-from progress import IncrementalBar
+from cmdprogress.bar import ProgBar
 
-##  bbsrc eve 1990-2016 ~/bbsrc/files/eve
-def eve(years,outdir):
-    from retro.eve import simEVE
-    for year in years:
-        with open(f'{outdir}/{year}.txt','w') as f:
-            for l in simEVE(year):
-                print(l,file=f)
-
-
-##  bbsrc ros 1990-2016 ~/bbsrc/files/ros
-def ros(years,outdir):
-    from retro.misc import simROS
-    for year in years:
-        with open(f'{outdir}/{year}.txt','w') as f:
-            for l in simROS(year):
-                print(l,file=f)
-
-##  bbsrc ctx 1990-2016 ~/bbsrc/files/ctx
-def ctx(years,outdir):
-    from retro.misc import simCTX
-    for year in years:
-        with open(f'{outdir}/{year}.txt','w') as f:
-            for l in simCTX(year):
-                print(l,file=f)
-
-
-##  bbsrc team 1990-2016 ~/bbsrc/files/team
-def team(years,outdir):
-    from retro.misc import simTEAM
-    for year in years:
-        with open(f'{outdir}/{year}.txt','w') as f:
-            for l in simTEAM(year):
-                print(l,file=f)
-
-## bbsrc gid 1990-2016 ~/bbsrc/files/gid
-def gid(years,outdir):
-    from retro.misc import simGID
-    for year in years:
-        with open(f'{outdir}/{year}.txt','w') as f:
-            for l in simGID(year):
-                print(l,file=f)
-
-
-### Parse Years
+# ------------------------------------------------ util ------------------------------------------------ #
 
 def parse_years(arg):
     years = set()
@@ -60,39 +17,82 @@ def parse_years(arg):
     years.sort()
     return years
 
-### Verify Directory
-
 def verify_dir(path):
     if len(path) and not os.path.exists(path):
         verify_dir(os.path.dirname(path))
         os.mkdir(path)
 
+
+# ------------------------------------------------ compiler ------------------------------------------------ #
+
+def file_compiler(fn):
+    def wrapper(years,outdir):
+        comp = fn()
+        for year in years:
+            with open(f'{outdir}/{year}.txt','w') as f:
+                for l in comp(year):
+                    print(l,file=f)
+    return wrapper
+
+@file_compiler
+def eve():
+    ##  bbsrc eve 1990-2016 ~/bbsrc/files
+    from retro.eve import simEVE
+    return simEVE
+
+@file_compiler
+def ros():
+    ##  bbsrc ros 1990-2016 ~/bbsrc/files
+    from retro.misc import simROS
+    return simROS
+
+@file_compiler
+def ctx():
+    ##  bbsrc ctx 1990-2016 ~/bbsrc/files
+    from retro.misc import simCTX
+    return simCTX
+
+@file_compiler
+def team():
+    ##  bbsrc team 1990-2016 ~/bbsrc/files
+    from retro.misc import simTEAM
+    return simTEAM
+
+@file_compiler
+def gid():
+    ## bbsrc gid 1990-2016 ~/bbsrc/files
+    from retro.misc import simGID
+    return simGID
+
+
 ### Main
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Baseball Source File Compiler")
-    parser.add_argument('type',choices=['gid','eve','ros','ctx','team'],help='File category to compile')
-    parser.add_argument('years',type=parse_years,help='years to compile')
-    parser.add_argument('outdir',type=str,help='folder to put compiled files into')
+    subparsers = parser.add_subparsers(title="type of file to compile",dest='type',metavar='command')
+
+    compiler_parser = argparse.ArgumentParser(add_help=False)
+    compiler_parser.add_argument('years',type=parse_years,help='years to compile')
+    compiler_parser.add_argument('outdir',type=str,help='folder to put compiled files into')
+
+    parser_gid = subparsers.add_parser('gid',parents=[compiler_parser],help='compile gid files')
+    parser_gid.set_defaults(run=gid)
+    parser_eve = subparsers.add_parser('eve',parents=[compiler_parser],help='compile eve files')
+    parser_eve.set_defaults(run=eve)
+    parser_ros = subparsers.add_parser('ros',parents=[compiler_parser],help='compile ros files')
+    parser_ros.set_defaults(run=ros)
+    parser_ctx = subparsers.add_parser('ctx',parents=[compiler_parser],help='compile ctx files')
+    parser_ctx.set_defaults(run=ctx)
+    parser_team = subparsers.add_parser('team',parents=[compiler_parser],help='compile team files')
+    parser_team.set_defaults(run=team)
+
     args = parser.parse_args()
-    years = args.years
-    outdir = args.outdir
+    outdir = os.path.join(args.outdir,args.type)
     if os.path.exists(outdir) and not os.path.isdir(outdir):
         print(f"error: '{outdir}' exists and is not a directory")
         return
     verify_dir(outdir)
-    yiter = IncrementalBar(prefix=args.type).iter(years)
-    if args.type == 'gid':
-        gid(yiter,outdir)
-    elif args.type == 'eve':
-        eve(yiter,outdir)
-    elif args.type == 'ros':
-        ros(yiter,outdir)
-    elif args.type == 'ctx':
-        ctx(yiter,outdir)
-    elif args.type == 'team':
-        team(yiter,outdir)
-
+    args.run(ProgBar(prefix=args.type).iter(args.years),outdir)
 
 if __name__=='__main__':
     main()

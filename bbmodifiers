@@ -1,0 +1,229 @@
+#!/usr/bin/env python
+
+import sys,os,argparse
+import numpy as np
+import pandas as pd
+import cmdprogress
+import re
+from retro.util import SimFileError
+from retro.raw import ECODE,MOD,SyncEID
+from retro.eve import split_evt
+
+def parse_years(arg):
+    years = set()
+    for a in arg.split(','):
+        if '-' in a:
+            y0,y1 = map(int,a.split('-'))
+            years |= set(range(y0,y1+1))
+        else:
+            years |= {int(a)}
+    years = list(years)
+    years.sort()
+    return years
+
+
+
+BMOD = { 'bb':0,'hitloc':1,'bunt':2,'foul':3,'wp':4,'pb':5,'dp':6,'tp':7,'sf':8,'sh':9 }
+BB_CAT = { 'B':0,'G':1,'F':1,'L':1,'P':1,'DP':2,'TP':2,'FL':3 }
+
+################################ [util] ################################################################
+
+def str_remove(s,v):
+    i = s.find(v)
+    if i<0:return s
+    return s[:i]+s[i+len(v):]
+
+################################ [BB] ################################################################
+
+def mergeBB(a,b):
+    i,j,x,y = 0,0,len(a),len(b)
+    while i<x and j<y:
+        z = BB_CAT[a[i]]-BB_CAT[b[j]]
+        if z<0:
+            yield a[i]
+            i=i+1
+        elif z>0:
+            yield b[j]
+            j=j+1
+        elif a[i]==b[j]:
+            yield a[i]
+            i,j=i+1,j+1
+        else:
+            raise SimFileError('Merge Error (%s & %s) [%s] [%s]'%(a[i],b[j],','.join(a),','.join(b)))
+    while i<x:
+        yield a[i]
+        i=i+1
+    while j<y:
+        yield b[j]
+        j=j+1
+
+def sortBB(l):
+    if len(l)<=1:return l
+    m = len(l)//2
+    a,b = sortBB(l[:m]),sortBB(l[m:])
+    return [*mergeBB(a,b)]
+
+
+def unionBB(a,b):
+    i,j,x,y = 0,0,len(a),len(b)
+    while i<x and j<y:
+        z = BB_CAT[a[i]]-BB_CAT[b[j]]
+        if z<0:
+            yield a[i]
+            i=i+1
+        elif z>0:
+            yield b[j]
+            j=j+1
+        else:
+            yield a[i]
+            i,j=i+1,j+1
+    while i<x:
+        yield a[i]
+        i=i+1
+    while j<y:
+        yield b[j]
+        j=j+1
+
+def diffBB(a,b):
+    i,j,x,y = 0,0,len(a),len(b)
+    while i<x and j<y:
+        z = BB_CAT[a[i]]-BB_CAT[b[j]]
+        if z<0:
+            yield a[i]
+            i=i+1
+        elif z>0:
+            yield b[j]
+            j=j+1
+        elif a[i]==b[j]:
+            i,j=i+1,j+1
+        else:
+            raise SimFileError('Diff Error (%s & %s) [%s] [%s]'%(a[i],b[j],','.join(a),','.join(b)))
+    while i<x:
+        yield a[i]
+        i=i+1
+    while j<y:
+        yield b[j]
+        j=j+1
+
+
+
+################################ [group] ################################################################
+
+
+################################[]################################################################
+
+################################[]################################################################
+
+MOD_BB = ['B','G','F','L','P','DP','TP','FL']
+BB_CAT = { 'B':0,'G':1,'F':1,'L':1,'P':1,'DP':2,'TP':2,'FL':3 }
+
+def category(m):
+    return 0 if m in ['B','G','F','L','P','DP','TP','FL'] else 1
+
+
+################################[unzip]################################################################
+
+def unzip(mod):
+    for x in mod:
+        if x in ['BGDP','BPDP']:
+            yield 0,x[0]
+            yield 0,x[1]
+            yield 0,x[2:]
+        elif x in ['FDP','GDP','GTP','LDP','LTP']:
+            yield 0,x[0]
+            yield 0,x[1:]
+        elif x in ['BP','BG','BL','BP']:
+            yield 0,x[0]
+            yield 0,x[1]
+        elif x in ['B','G','F','L','P','DP','TP','FL']:
+            yield 0,x
+        else:
+            yield 1,x
+
+def categorize(mod):
+    split = ([],[])
+    for i,x in unzip(mod):
+        split[i].append(x)
+    return sortBB(split[0]),split[1]
+
+################################[hitloc]################################################################
+
+def del_hitloc(m,hitloc):
+    if hitloc!='':
+        for i,x in enumerate(m):
+            if hitloc in x:
+                x = str_remove(x,hitloc)
+                break
+        else:
+            assert False,'hitloc [%s] not in [%s]'%(hitloc,'/'.join(m))
+        if len(x)==0:
+            del m[i]
+        else:
+            m[i]=x
+
+################################[]################################################################
+
+def bfmt_hitmod(bmod):
+    bb,bunt,foul,dp,tp = bmod[BMOD['bb']],int(bmod[BMOD['bunt']]),int(bmod[BMOD['foul']]),int(bmod[BMOD['dp']]),int(bmod[BMOD['tp']])
+    return ['B']*bunt+([bb] if bb!='' else [])+['DP']*dp+['TP']*tp+['FL']*foul
+
+def format_mod(m,bmod):
+    try:
+        m = [x for x in [re.sub(r'[+-]','',i) for i in m] if x!='']
+        m = [x for x in m if not (re.search(r'^(?:[RU][\dU]+)+',x) or re.search(r'TH[123H]?',x))]
+        m = [x for x in m if x not in ['AP','C','COUB','COUF','COUR','IF','IPHR','MREV','UREV']]
+        ############# [hitloc] #############
+        del_hitloc(m,bmod[BMOD['hitloc']])
+        ############# [] #############
+        hitmod = bfmt_hitmod(bmod)
+        bb,mod = categorize(m)
+
+        bbmod = [*unionBB(bb,hitmod)]
+        _mod = mod
+        if 'B' in bbmod: mod=['BUNT']+mod
+        if 'FL' in bbmod: mod=['FOUL']+mod
+        if 'G' in bbmod and 'DP' in bbmod: mod=['GDP']+mod
+        #return mod
+        #return bbmod
+        #return bb
+        return _mod,bb,hitmod,bbmod,mod
+
+    except SimFileError as err:
+        raise err.add('BMOD',','.join(bmod))
+
+
+COLUMNS = ['mod','bb','hitmod','bbmod','final']
+
+def extractmod(evt,bmod):
+    evt = evt.replace('#','').replace('!','').replace('?','')
+    if '.' in evt:
+        evt = evt.split('.')[0]
+    evt = [*split_evt(evt)]
+    #mod = format_mod(evt[1:],bmod)
+    mod = format_mod(evt[1:],bmod)
+    return tuple('/'.join(x) for x in mod)
+    #return evt[0],'/'.join(mod)
+    #return '/'.join(mod)
+
+
+def eve_modifiers(years):
+    mods = set()
+    for year in cmdprogress.ProgBar().iter(years):
+        with SyncEID(year,ECODE,MOD) as f:
+            for eid,(evt,bmod) in f:
+                m = extractmod(evt,bmod.split(','))
+                mods.add(m)
+    df = pd.DataFrame([list(x) for x in mods],columns=COLUMNS)
+    df.sort_values(COLUMNS,inplace=True)
+    return df
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('years',type=parse_years)
+    args = parser.parse_args()
+    data = eve_modifiers(args.years)
+    data.to_csv(sys.stdout,index=False)
+
+
+if __name__ == "__main__":
+    main()

@@ -41,8 +41,10 @@ def adv_pbwp(a):
 def _extract_rundata(flg):
     ur,flg = list_extract('UR',flg)
     tur,flg = list_extract('TUR',flg)
-    rbi,flg = list_extract(['NR','RBI','NORBI'],flg)
-    run = 'R%i%i%i'%(int(ur==None),int(tur==None),int(rbi=='NR' or rbi=='NORBI')^1)
+    rbi,flg = list_extract('RBI',flg)
+    norbi,flg = list_extract(['NR','NORBI'],flg)
+    run = "R{}{}{}{}".format(int(ur!=None),int(tur!=None),int(rbi!=None),int(norbi!=None))
+    #run = 'R%i%i%i'%(int(ur==None),int(tur==None),int(rbi=='NR' or rbi=='NORBI')^1)
     return run,flg
 
 def _dfnflag(flg,d):

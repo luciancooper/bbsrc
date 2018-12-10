@@ -162,10 +162,15 @@ def format_mod(m,bmod):
         hitmod = bfmt_hitmod(bmod)
         bb,mod = categorize(m)
 
-        bbmod = unionBB(bb,hitmod)
-        if 'B' in bbmod: mod=['BUNT']+mod
-        if 'FL' in bbmod: mod=['FOUL']+mod
-        if 'G' in bbmod and 'DP' in bbmod: mod=['GDP']+mod
+        bbmod = [*unionBB(bb,hitmod)]
+        if 'B' in bbmod:
+            mod=['BUNT']+mod
+        if 'FL' in bbmod:
+            mod=['FOUL']+mod
+        if 'G' in bbmod and 'DP' in bbmod:
+            mod=['GDP']+mod
+        if 'G' in bbmod and 'TP' in bbmod:
+            mod=['GTP']+mod
         return mod
     except SimFileError as err:
         raise err.add('BMOD',','.join(bmod))
