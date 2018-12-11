@@ -1,4 +1,4 @@
-player,birthdate,first_year,last_year,retro_id,lahman_id,bbref_id,bbref_minors_id,fangraphs_id,fangraphs_pos,mlb_id,uuid
+player,birthdate,first_year,last_year,retro_id,lahman_id,bbr_id,bbr_minors_id,fangraphs_id,fangraphs_pos,mlb_id,uuid
 AARDD001,1981-12-27,2004,2015,aardd001,aardsda01,aardsda01,aardsm001dav,1902,P,430911,6020b1f4-4854-4617-a86b-33e3f959c901
 AAROH101,1934-02-05,1964,1976,aaroh101,aaronha01,aaronha01,aaron-001hen,1000001,OF,110001,5a36cc6f-e91d-4cbe-b7a4-25178b6a6123
 AAROT101,1939-08-05,1965,1971,aarot101,aaronto01,aaronto01,aaron-001tom,1000002,1B/OF,110002,a3f2f0b1-6c75-42dc-a29b-98ea86396fb2
