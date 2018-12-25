@@ -10,9 +10,11 @@ Source files for Play by Play baseball game simulations for all MLB games betwee
 
 All raw files are located in the `files` folder
 
-____
+#### Notes:
+This project depends on [cmdprogress](https://github.com/luciancooper/cmdprogress) for command line progress bars
 
-## Commands
+
+# Commands
 
  * The following are descriptions of the four command line tools used in the generation of all the data in the `files` folder of this repository.
 
